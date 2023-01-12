@@ -5,7 +5,7 @@ description:        "A research laborotory."
 
 
 # URL
-url:                https://music-cognition-lab.github.io/
+url:                https://music-cognition-lab.github.io
 baseurl:            
 permalink:          /:year/:month/:day/:title.html
 

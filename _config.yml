@@ -5,9 +5,8 @@ description:        "A research laborotory."
 
 
 # URL
-url:                
+url:                https://music-cognition-lab.github.io/
 baseurl:            
-#baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown

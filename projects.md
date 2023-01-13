@@ -3,6 +3,8 @@ title: Projects
 permalink: /projects/
 ---
 
+<br>
+
 <h4>Information Dynamics of Music (IDyOM)</h4>
 <hr>
 <p>IDyOM <a href="http://webprojects.eecs.qmul.ac.uk/marcusp/papers/Pearce2005.pdf">(Pearce, 2005)</a> is a computational model of auditory expectation based on probabilistic prediction and statistical learning. IDyOM is developed and used in much of our research. Further information and downloads are available on the <a href="http://mtpearce.github.io/idyom/">IDyOM project page</a>.</p>

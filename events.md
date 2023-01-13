@@ -3,6 +3,8 @@ title: Events
 permalink: /events/
 ---
 
+<br>
+
 <h4>Music Cognition Lab 10th Anniversary Workshop, July 1st 2022, Queen Mary University of London</h4>
 <hr>
 <p>A workshop to celebrate the QMUL Music Cognition Lab&#8217;s tenth anniversary, featuring presentations from former and current members of the lab on their research.</p>

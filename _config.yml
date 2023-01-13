@@ -18,7 +18,7 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/home"
+    href:           "/"
   - name:           "people"
     href:           "/people"
   - name:           "publications"
@@ -29,8 +29,6 @@ nav:
     href:           "/seminars"
   - name:           "events"
     href:           "/events"
-  - name:           "opportunities"
-    href:           "/opportunities"  
   - name:           "resources"
     href:           "/resources"
 

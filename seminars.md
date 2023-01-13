@@ -6,7 +6,7 @@ permalink: /seminars/
 <br>
 
 <p>The&nbsp;Music Cognition Lab&nbsp;holds weekly&nbsp;seminars&nbsp;on the Mile End campus at Queen Mary University of London. Sessions with invited speakers are listed below.</p>
-<p>We welcome visitors to our seminars. If you are interested in attending, please get in touch with Tom Kaplan (t.m.kaplan [at] qmul.ac.uk) or Marcus Pearce (marcus.pearce [at] qmul.ac.uk).</p>
+<p>We welcome visitors to our seminars. If you are interested in attending or presenting, please get in touch with Marcus Pearce (marcus.pearce [at] qmul.ac.uk).</p>
 <table class="seminars">
 <tbody>
 <tr>
@@ -15,6 +15,27 @@ permalink: /seminars/
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td>11:30am, Fri 25th Nov</td>
+<td>Eline Smit</td>
+<td>University of Konstanz</td>
+<td>Two approaches to the perception of affect of unfamiliar music</td>
+<td>CS308</td>
+</tr>
+<tr>
+<td>11:30am, Fri 11th Nov</td>
+<td>Leah Fosticki</td>
+<td>Ariel University</td>
+<td>Individual differences in auditory perception</td>
+<td>CS308</td>
+</tr>
+<tr>
+<td>11:30am, Fri 9th Sep</td>
+<td>Aditya Chander</td>
+<td>Yale University</td>
+<td>Rapid expectation adaptation for rare cadences</td>
+<td>CS308</td>
 </tr>
 <tr>
 <td>3pm, Tues 7th Jun</td>
@@ -63,6 +84,13 @@ permalink: /seminars/
 <td>Niels Chr. Hansen</td>
 <td>Aarhus Institute of Advanced Studies &amp; Center for Music in the Brain, Aarhus University, Denmark</td>
 <td>Using IDyOM to investigate the expectancy dynamics of melodic cognition, composition, and improvisation</td>
+<td>CS308</td>
+</tr>
+<tr>
+<td>11:30am, Fri 3rd Dec</td>
+<td>Scott Kunkel</td>
+<td>Linguistics Department, QMUL</td>
+<td>Bidialectal French speakers' language attitudes and perception of gradient acoustic differences</td>
 <td>CS308</td>
 </tr>
 <tr>

@@ -18,9 +18,7 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/"
-  - name:           "about"
-    href:           "/about"
+    href:           "/home"
   - name:           "people"
     href:           "/people"
   - name:           "publications"

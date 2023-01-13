@@ -8,8 +8,8 @@ permalink: /resources/
 ### Lab Resources
 
 <ul>
-<li><a href="https://osf.io/m7wzn/">Music Cognition Lab OSF</a>: open-acccess data, analysis scripts and other resources.</li>
-<li><a href="https://github.com/Music-Cognition-Lab">Music Cognition Lab Github</a>: open-access software and code written by lab members.</li>
+<li><a href="https://osf.io/m7wzn/">Music Cognition Lab OSF</a>: lab meeting links and schedule, slides, notes, files and other resources.</li>
+<li><a href="https://github.com/Music-Cognition-Lab">Music Cognition Lab Github</a>: open-access software created by lab members.</li>
 </ul>
 
 ### Join the lab

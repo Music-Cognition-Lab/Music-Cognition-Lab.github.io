@@ -1,7 +1,7 @@
 # Basic
 name:               "Music Cognition Lab"
 title:              ""
-description:        "A research laborotory."
+description:        "A research laboratory."
 
 
 # URL
@@ -24,9 +24,15 @@ nav:
   - name:           "people"
     href:           "/people"
   - name:           "publications"
-    href:           "/publication"
-  - name:           "blog"
-    href:           "/blog"
+    href:           "/publications"
+  - name:           "projects"
+    href:           "/projects"
+  - name:           "seminars"
+    href:           "/seminars"
+  - name:           "events"
+    href:           "/events"
+  - name:           "opportunities"
+    href:           "/opportunities"  
   - name:           "resources"
     href:           "/resources"
 

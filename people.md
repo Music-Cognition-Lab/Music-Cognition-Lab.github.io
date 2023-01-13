@@ -61,6 +61,11 @@ permalink: /people/
 
 <!-------------------------------------------------------------------------->
 
+
+<table width="100%">
+<tbody>
+<tr>
+<td colspan="2">
 <h2>Current members</h2>
 </td>
 </tr>

@@ -55,16 +55,16 @@ permalink: /people/
   <tr>
     <td><img src="assets/images/people/AmiraKorkor.jpg"  width="97" /></td>
     <td>
-      <p><a href="https://www.qmul.ac.uk/sbcs/staff/amirakorkor.html">Amira Korkor</a></p>
-      <p>Doctoral Student: The cognitive neuroscience of creative innovation: using EEG, brain stimulation and computational modelling to understand creativity in music</p> 
+      <a href="https://www.qmul.ac.uk/sbcs/staff/amirakorkor.html">Amira Korkor</a><br />
+      Doctoral Student: The cognitive neuroscience of creative innovation: using EEG, brain stimulation and computational modelling to understand creativity in music
     </td>
   </tr>
   
   <tr>
     <td><img src="assets/images/people/CourtneyReed.jpg" alt="courtney" width="97" /></td>
     <td>
-      <p><a href="https://courtneynreed.wordpress.com/">Courtney Reed</a></p>
-      <p>Doctoral Student: Physiological sensing of the singing voice and musical imagery usage in vocalists.</p> 
+      <a href="https://courtneynreed.wordpress.com/">Courtney Reed</a><br />
+      Doctoral Student: Physiological sensing of the singing voice and musical imagery usage in vocalists.
     </td>
   </tr>
   
@@ -132,8 +132,8 @@ permalink: /people/
 <tr>
 <td><img class="alignnone size-medium wp-image-397" src="assets/images/people/DaveBaker.png" alt="baker" width="97" /></td>
 <td>
-<p><a href="https://davidjohnbaker.rbind.io/">David Baker</a></p>
-<p>Former Visiting Doctoral Student</td>
+<a href="https://davidjohnbaker.rbind.io/">David Baker</a><br />
+Former Visiting Doctoral Student
 </tr>
 
 <tr>

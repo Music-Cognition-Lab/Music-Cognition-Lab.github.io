@@ -7,7 +7,7 @@ permalink: /people/
 
   <tr>
     <td colspan="2">
-      <h2>Current members</h2>
+      <h3>Current members</h3>
     </td>
   </tr>
   
@@ -69,8 +69,7 @@ permalink: /people/
   
   <tr>
     <td colspan="2">
-      <h2></h2>
-      <h2>Associated members</h2>
+      <h3>Associated members</h3>
     </td>
   </tr>
 
@@ -120,8 +119,7 @@ permalink: /people/
 
   <tr>
     <td colspan="2">
-      <h2></h2>
-      <h2>Former members</h2>
+      <h3>Former members</h3>
     </td>
   </tr>
 

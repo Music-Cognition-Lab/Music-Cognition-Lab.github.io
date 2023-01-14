@@ -267,49 +267,49 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="67"></td>
     <td>Chunyang Song<br />
       Doctoral Student: modelling the perception of syncopation in music.
     </td>
   </tr>
   
   <tr>
-    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="67"></td>
     <td>Asterios Zacharakis<br />
       Doctoral Student: timbre perception.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="67"></td>
     <td>Claire Meissner-Bernard<br />
       Masters Student: Influence of cultural exposure on musical expectations.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="67"></td>
     <td>Michael Terrell<br />
       Doctoral Student: loudness perception.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="67"></td>
     <td>Andrew Simpson<br />
       Doctoral Student: loudness perception.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="67"></td>
     <td>JP Tauscher<br />
       Visiting researcher: predicting emotional experience of music using neural and physiological responses.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="67"></td>
     <td>Marco Bussi<br />
       Visiting researcher: auditory scene analysis.
     </td>

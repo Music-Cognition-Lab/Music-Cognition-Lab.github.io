@@ -12,7 +12,7 @@ permalink: /people/
   </tr>
   
   <tr>
-    <td><img src="assets/images/people/MarcusPearce.jpg" alt="" width="97"></td>
+    <td><img class='img-responsive center-block' src="assets/images/people/MarcusPearce.jpg" width="97" /></td>
     <td><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br />
       Lab leader.<br />
       <a href="mailto:marcus.pearce@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/mtpearce" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/2nxqh/" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="https://orcid.org/0000-0002-1282-431X" target="_blank" rel="noopener noreferrer">ORCiD</a>
@@ -180,7 +180,7 @@ Doctoral Student: Prediction in Polyphony: Modelling Auditory Scene Analysis.</t
 
 <tr>
 <td><img class="align-left" src="assets/images/people/YvonneBlokland.jpg" width="97" height="97"></td>
-<td>Dr. Yvonne Blokland<br />
+<td>Yvonne Blokland<br />
 Post-doctoral Research Assistant: Modelling musical preference decisions.</td>
 </tr>
 
@@ -192,7 +192,7 @@ Academic visitor: Automatic transcription of multiple singers</td>
 
 <tr>
 <td><img class="alignnone  wp-image-481" src="assets/images/people/SamDuffy.jpg" alt="" width="97" /></td>
-<td><a href="https://www.linkedin.com/in/samduffy/">Dr. Sam Duffy</a><br />
+<td><a href="https://www.linkedin.com/in/samduffy/">Sam Duffy</a><br />
 Post-doctoral Research Assistant: game-based development of rhythm performance skills.</td>
 </tr>
 

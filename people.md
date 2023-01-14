@@ -12,7 +12,7 @@ permalink: /people/
   </tr>
   
   <tr>
-    <td><img src="../assets/images/people/MarcusPearce.jpg" width="97" height="97" /></td>
+    <td><img src="../assets/images/people/MarcusPearce.jpg" width="97" /></td>
     <td><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br />
       Lab leader.<br />
       <a href="mailto:marcus.pearce@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/mtpearce" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/2nxqh/" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="https://orcid.org/0000-0002-1282-431X" target="_blank" rel="noopener noreferrer">ORCiD</a>
@@ -20,7 +20,7 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/RemiDeFleurian.png" width="97" height="97"></td>
+    <td><img src="../assets/images/people/RemiDeFleurian.png" width="97"></td>
     <td><a href="https://remidefleurian.com" target="_blank" rel="noopener noreferrer">Rémi de Fleurian</a><br />
       Doctoral student: Expectation and chills in music.<br />
       <a href="mailto:r.defleurian@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/remidefleurian" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/f2jgd/" target="_blank" rel="noopener noreferrer">OSF</a><br />
@@ -28,7 +28,7 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/EdwardHall.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/EdwardHall.jpg" width="97"></td>
     <td>Edward Hall<br />
       Doctoral Student: Probabilistic modelling of thematic development and structural coherence in music.<br />
       <a href="mailto:edward.hall@qmul.ac.uk">Email</a> | <a href="https://github.com/etrhall/">GitHub</a> | <a href="https://osf.io/7nwvf/">OSF</a>
@@ -36,7 +36,7 @@ permalink: /people/
   </tr>
   
   <tr>
-    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="97" /></td>
+    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="67" /></td>
     <td>
       <a href="https://eecs.qmul.ac.uk/profiles/hamiltonmadelineann.html">Madeline Hamilton</a><br />
       Doctoral Student: Improving AI-generated Music with Pleasure Models.
@@ -44,7 +44,7 @@ permalink: /people/
   </tr>
   
   <tr>
-    <td><img src="../assets/images/people/TomKaplan.jpg" width="97" height="97" /></td>
+    <td><img src="../assets/images/people/TomKaplan.jpg" width="97" /></td>
     <td><a href="https://kappers.github.io/">Thomas Kaplan</a><br />
       Doctoral Student: Probabilistic modelling of rhythm perception and production.<br />
       <a href="mailto:t.m.kaplan@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.com/citations?user=yj76nYYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/Kappers" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/akfxp/" target="_blank" rel="noopener noreferrer">OSF</a>
@@ -52,7 +52,7 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/AmiraKorkor.jpg" width="97" height="97" /></td>
+    <td><img src="../assets/images/people/AmiraKorkor.jpg" width="97" /></td>
     <td>
       <a href="https://www.qmul.ac.uk/sbcs/staff/amirakorkor.html">Amira Korkor</a><br />
       Doctoral Student: The cognitive neuroscience of creative innovation: using EEG, brain stimulation and computational modelling to understand creativity in music
@@ -60,7 +60,7 @@ permalink: /people/
   </tr>
   
   <tr>
-    <td><img src="../assets/images/people/CourtneyReed.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/CourtneyReed.jpg" width="97"></td>
     <td>
       <a href="https://courtneynreed.wordpress.com/">Courtney Reed</a><br />
       Doctoral Student: Physiological sensing of the singing voice and musical imagery usage in vocalists.

@@ -12,7 +12,7 @@ permalink: /people/
   </tr>
   
   <tr>
-    <td><img src="assets/images/people/MarcusPearce.jpg" width="97" /></td>
+    <td><img src="../assets/images/people/MarcusPearce.jpg" width="97" height="97" /></td>
     <td><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br />
       Lab leader.<br />
       <a href="mailto:marcus.pearce@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/mtpearce" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/2nxqh/" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="https://orcid.org/0000-0002-1282-431X" target="_blank" rel="noopener noreferrer">ORCiD</a>
@@ -20,7 +20,7 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="assets/images/people/RemiDeFleurian.png" width="97" height="97"></td>
+    <td><img src="../assets/images/people/RemiDeFleurian.png" width="97" height="97"></td>
     <td><a href="https://remidefleurian.com" target="_blank" rel="noopener noreferrer">Rémi de Fleurian</a><br />
       Doctoral student: Expectation and chills in music.<br />
       <a href="mailto:r.defleurian@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/remidefleurian" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/f2jgd/" target="_blank" rel="noopener noreferrer">OSF</a><br />
@@ -28,7 +28,7 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="assets/images/people/EdwardHall.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/EdwardHall.jpg" width="97" height="97"></td>
     <td>Edward Hall<br />
       Doctoral Student: Probabilistic modelling of thematic development and structural coherence in music.<br />
       <a href="mailto:edward.hall@qmul.ac.uk">Email</a> | <a href="https://github.com/etrhall/">GitHub</a> | <a href="https://osf.io/7nwvf/">OSF</a>
@@ -36,7 +36,7 @@ permalink: /people/
   </tr>
   
   <tr>
-    <td><img src="assets/images/people/gravatar.jpg" width="97" height="97" /></td>
+    <td><img src="../assets/images/people/gravatar.jpg" width="97" height="97" /></td>
     <td>
       <a href="https://eecs.qmul.ac.uk/profiles/hamiltonmadelineann.html">Madeline Hamilton</a><br />
       Doctoral Student: Improving AI-generated Music with Pleasure Models.
@@ -44,7 +44,7 @@ permalink: /people/
   </tr>
   
   <tr>
-    <td><img src="../assets/images/people/TomKaplan.jpg" width="97" height="112" /></td>
+    <td><img src="../assets/images/people/TomKaplan.jpg" width="97" height="97" /></td>
     <td><a href="https://kappers.github.io/">Thomas Kaplan</a><br />
       Doctoral Student: Probabilistic modelling of rhythm perception and production.<br />
       <a href="mailto:t.m.kaplan@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.com/citations?user=yj76nYYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/Kappers" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/akfxp/" target="_blank" rel="noopener noreferrer">OSF</a>
@@ -52,7 +52,7 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/AmiraKorkor.jpg" width="97" /></td>
+    <td><img src="../assets/images/people/AmiraKorkor.jpg" width="97" height="97" /></td>
     <td>
       <a href="https://www.qmul.ac.uk/sbcs/staff/amirakorkor.html">Amira Korkor</a><br />
       Doctoral Student: The cognitive neuroscience of creative innovation: using EEG, brain stimulation and computational modelling to understand creativity in music
@@ -60,7 +60,7 @@ permalink: /people/
   </tr>
   
   <tr>
-    <td><img src="../assets/images/people/CourtneyReed.jpg" width="97"></td>
+    <td><img src="../assets/images/people/CourtneyReed.jpg" width="97" height="97"></td>
     <td>
       <a href="https://courtneynreed.wordpress.com/">Courtney Reed</a><br />
       Doctoral Student: Physiological sensing of the singing voice and musical imagery usage in vocalists.
@@ -105,7 +105,7 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/PeterHarrison.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/PeterHarrison.jpg" width="97"></td>
     <td><a href="https://www.pmcharrison.com/">Peter Harrison</a><br />
       Former doctoral Student and collaborator: Probabilistic modelling of polyphonic music.
     </td>
@@ -141,56 +141,56 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/BastiaanVanDerWeij.png" width="97" height="97"></td>
+    <td><img src="../assets/images/people/BastiaanVanDerWeij.png" width="97"></td>
     <td><a href="https://www.bastiaan.org/">Bastiaan van der Weij</a><br />
       Doctoral Student: Probabilistic modelling of musical metre perception.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/AdrienYcart.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/AdrienYcart.jpg" width="97"></td>
     <td><a href="https://www.eecs.qmul.ac.uk/~ay304/">Adrien Ycart</a><br />
       Doctoral Student: Music Language Models for Audio Analysis.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/IoannaZioga.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/IoannaZioga.jpg" width="97"></td>
     <td><a href="https://www.sbcs.qmul.ac.uk/staff/ioannazioga.html">Ioanna Zioga</a><br />
       Post-doctoral Research Assistant: Bridging the gap between learning and creativity using electroencephalography and brain stimulation.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/MiriamKirsch.png" width="97" height="97"></td>
+    <td><img src="../assets/images/people/MiriamKirsch.png" width="97"></td>
     <td>Miriam Tenderini<br />
       Doctoral Student: Emotional priming effects between language and music.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/JiaJieDai.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/JiaJieDai.jpg" width="97"></td>
     <td>Jiajie Dai<br />
       Doctoral student: Modelling Intonation and Interaction in Vocal Ensembles.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/SarahSauve.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/SarahSauve.jpg" width="97" ></td>
     <td><a href="https://sarahasauve.wordpress.com/" target="_blank" rel="noopener noreferrer">Sarah Sauvé</a><br />
       Doctoral Student: Prediction in Polyphony: Modelling Auditory Scene Analysis.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/YvonneBlokland.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/YvonneBlokland.jpg" width="97" ></td>
     <td>Yvonne Blokland<br />
       Post-doctoral Research Assistant: Modelling musical preference decisions.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/RodrigoSchramm.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/RodrigoSchramm.jpg" width="97" ></td>
     <td><a href="https://professor.ufrgs.br/rschramm/">Rodrigo Schramm</a><br />
       Academic visitor: Automatic transcription of multiple singers
     </td>
@@ -204,63 +204,63 @@ permalink: /people/
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/NielsChristianHansen.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/NielsChristianHansen.jpg" width="97"></td>
     <td><a href="https://musiccog.ohio-state.edu/home/index.php/Niels_Chr._Hansen" target="_blank" rel="noopener noreferrer">Niels Chr. Hansen</a><br />
       Doctoral Student: Musical expertise, uncertainty and statistical learning.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/KatAgres.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/KatAgres.jpg" width="97" ></td>
     <td><a href="https://www.a-star.edu.sg/ihpc/People/tid/376/Kat-Agres.aspx">Kat Agres</a><br />
       Post-doctoral Research Assistant: memory, expectation and preference in music perception.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/YadingSong.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/YadingSong.jpg" width="97"></td>
     <td>Yading Song<br />
       Doctoral Student: modelling musical emotion.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/LenaDelval.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/LenaDelval.jpg" width="97"></td>
     <td>Léna Delval<br />
       Research assistant: modelling musical preference decisions.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/DavidSears.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/DavidSears.jpg" width="97"></td>
     <td><a href="https://davidrwsears.com/">David Sears</a><br />
       Research Visitor: Simulating Melodic and Harmonic Expectations for Tonal Cadences Using Probabilistic Models.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/JordanSmith.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/JordanSmith.jpg" width="97"></td>
     <td><a href="https://jblsmith.github.io/">Jordan Bennett Louis Smith</a><br />
       Doctoral Student: perception of musical structure.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/KathrynEmerson.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/KathrynEmerson.jpg" width="97"></td>
     <td><a href="https://www.sheffield.ac.uk/hcs/staff/pgr/emerson">Kathryn Emerson</a><br />
       Research Assistant: memory, expectation and preference in music perception.
     </td>
   </tr>
 
   <tr>
-    <td><img src="../assets/images/people/JeremyGow.jpg" width="97" height="97"></td>
+    <td><img src="../assets/images/people/JeremyGow.jpg" width="97"></td>
     <td><a href="https://www.gold.ac.uk/computing/people/gow-jeremy/">Jeremy Gow</a><br />
       Research Fellow: Information-theoretic modelling of music.
     </td>
   </tr>
   
   <tr>
-    <td><img src="../assets/images/people/SoniaWilkie.png" width="97" height="97"></td>
+    <td><img src="../assets/images/people/SoniaWilkie.png" width="97"></td>
     <td>Sonia Wilkie<br />
       Doctoral Student: Auditory-visual looming.
     </td>

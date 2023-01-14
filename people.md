@@ -4,116 +4,130 @@ permalink: /people/
 ---
 
 <table width="100%">                    
-<tr>
-<td colspan="2">
-<h2>Current members</h2>
-</td>
-</tr>
 
-<tr>
-<td><img src="assets/images/people/MarcusPearce.jpg" alt="" width="97"></td>
-<td><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br />
-Lab leader.<br />
-<a href="mailto:marcus.pearce@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/mtpearce" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/2nxqh/" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="https://orcid.org/0000-0002-1282-431X" target="_blank" rel="noopener noreferrer">ORCiD</a></td>
-</tr>
+  <tr>
+    <td colspan="2">
+      <h2>Current members</h2>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="assets/images/people/MarcusPearce.jpg" alt="" width="97"></td>
+    <td><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br />
+      Lab leader.<br />
+      <a href="mailto:marcus.pearce@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/mtpearce" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/2nxqh/" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="https://orcid.org/0000-0002-1282-431X" target="_blank" rel="noopener noreferrer">ORCiD</a>
+    </td>
+  </tr>
 
-<tr>
-<td><img src="assets/images/people/RemiDeFleurian.png" width="97" height="97"></td>
-<td><a href="https://remidefleurian.com" target="_blank" rel="noopener noreferrer">Rémi de Fleurian</a><br />
-Doctoral student: Expectation and chills in music.<br />
-<a href="mailto:r.defleurian@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/remidefleurian" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/f2jgd/" target="_blank" rel="noopener noreferrer">OSF</a><br />
-Projects: <a href="https://doi.org/10.31234/osf.io/yc6d8" target="_blank" rel="noopener noreferrer">Chills review</a> | <a href="https://doi.org/10.17605/osf.io/uyg7m" target="_blank" rel="noopener noreferrer">ChiM dataset</a></td>
-</tr>
+  <tr>
+    <td><img src="assets/images/people/RemiDeFleurian.png" width="97" height="97"></td>
+    <td><a href="https://remidefleurian.com" target="_blank" rel="noopener noreferrer">Rémi de Fleurian</a><br />
+      Doctoral student: Expectation and chills in music.<br />
+      <a href="mailto:r.defleurian@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/remidefleurian" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/f2jgd/" target="_blank" rel="noopener noreferrer">OSF</a><br />
+      Projects: <a href="https://doi.org/10.31234/osf.io/yc6d8" target="_blank" rel="noopener noreferrer">Chills review</a> | <a href="https://doi.org/10.17605/osf.io/uyg7m" target="_blank" rel="noopener noreferrer">ChiM dataset</a>
+    </td>
+  </tr>
 
-<tr>
-<td><img class="align-left" src="assets/images/people/EdwardHall.jpg" width="97" height="97"></td>
-<td>Edward Hall<br />
-Doctoral Student: Probabilistic modelling of thematic development and structural coherence in music.<br />
-<a href="mailto:edward.hall@qmul.ac.uk">Email</a> | <a href="https://github.com/etrhall/">GitHub</a> | <a href="https://osf.io/7nwvf/">OSF</a></td>
-</tr>
+  <tr>
+    <td><img class="align-left" src="assets/images/people/EdwardHall.jpg" width="97" height="97"></td>
+    <td>Edward Hall<br />
+      Doctoral Student: Probabilistic modelling of thematic development and structural coherence in music.<br />
+      <a href="mailto:edward.hall@qmul.ac.uk">Email</a> | <a href="https://github.com/etrhall/">GitHub</a> | <a href="https://osf.io/7nwvf/">OSF</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="assets/images/people/gravatar.jpg" width="97" height="97" /></td>
+    <td>
+      <a href="https://eecs.qmul.ac.uk/profiles/hamiltonmadelineann.html">Madeline Hamilton</a><br />
+      Doctoral Student: Improving AI-generated Music with Pleasure Models.
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="assets/images/people/TomKaplan.jpg" width="97" height="112" /></td>
+    <td><a href="https://kappers.github.io/">Thomas Kaplan</a><br />
+      Doctoral Student: Probabilistic modelling of rhythm perception and production.<br />
+      <a href="mailto:t.m.kaplan@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.com/citations?user=yj76nYYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/Kappers" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/akfxp/" target="_blank" rel="noopener noreferrer">OSF</a>
+    </td>
+  </tr>
 
-<tr>
-<td><img src="assets/images/people/gravatar.jpg" width="97" height="97"></td>
-<td>
-<p><a href="https://eecs.qmul.ac.uk/profiles/hamiltonmadelineann.html">Madeline Hamilton</a></p>
-<p>Doctoral Student: Improving AI-generated Music with Pleasure Models.</p></td>
-</tr>
+  <tr>
+    <td><img src="assets/images/people/AmiraKorkor.jpg"  width="97" /></td>
+    <td>
+      <p><a href="https://www.qmul.ac.uk/sbcs/staff/amirakorkor.html">Amira Korkor</a></p>
+      <p>Doctoral Student: The cognitive neuroscience of creative innovation: using EEG, brain stimulation and computational modelling to understand creativity in music</p> 
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="assets/images/people/CourtneyReed.jpg" alt="courtney" width="97" /></td>
+    <td>
+      <p><a href="https://courtneynreed.wordpress.com/">Courtney Reed</a></p>
+      <p>Doctoral Student: Physiological sensing of the singing voice and musical imagery usage in vocalists.</p> 
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2">
+      <h2></h2>
+      <h2>Associated members</h2>
+    </td>
+  </tr>
 
-<tr>
-<td><img src="assets/images/people/TomKaplan.jpg" width="97" height="112" /></td>
-<td><a href="https://kappers.github.io/">Thomas Kaplan</a><br />
-Doctoral Student: Probabilistic modelling of rhythm perception and production.<br />
-<a href="mailto:t.m.kaplan@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.com/citations?user=yj76nYYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/Kappers" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/akfxp/" target="_blank" rel="noopener noreferrer">OSF</a></td>
-</tr>
+  <tr>
+    <td><img class="align-left" src="assets/images/people/EmmanouilBenetos.png" width="97"></td>
+    <td><a href="https://www.eecs.qmul.ac.uk/~emmanouilb/">Emmanouil Benetos</a><br />
+      Royal Academy of Engineering Research Fellow: Automatic Music Transcription.
+    </td>
+  </tr>
 
-<tr>
-<td><img src="assets/images/people/AmiraKorkor.jpg"  width="97" /></td>
-<td>
-<p><a href="https://www.qmul.ac.uk/sbcs/staff/amirakorkor.html">Amira Korkor</a></p>
-<p>Doctoral Student: The cognitive neuroscience of creative innovation: using EEG, brain stimulation and computational modelling to understand creativity in music</td>
-</tr>
+  <tr>
+    <td><img src="assets/images/people/AnaClemente.png" alt="" width="97"></td>
+    <td><a href="https://evocog.org/ana-clemente/">Ana Clemente</a><br />
+      Visiting Doctoral Student: Human Evolution and Cognition Research Group, University of the Balearic Islands.<br />
+      Projects:<br />
+      <a href="https://mcl-musicbrowser.herokuapp.com/">Free Exploration and Free Play in Music&nbsp;</a><br />
+      Musical and Visual Aesthetic Sensitivity and Active Inference<br />
+      Musical Chills: Acoustic and Syntactic Elicitors<br />
+      <a href="mailto:ana.c.magan@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> &nbsp;|&nbsp;<a href="https://orcid.org/0000-0002-0460-6793" target="_blank" rel="noopener noreferrer">ORCiD</a> | <a href="https://scholar.google.com/citations?user=E2b4owUAAAAJ&amp;hl=es&amp;oi=sra">Google Scholar</a> | <a href="https://github.com/AnaClemente">GitHub</a> | <a href="https://osf.io/ue8z3/">OSF</a>
+    </td>
+  </tr>
 
-<tr>
-<td><img src="assets/images/people/CourtneyReed.jpg" alt="courtney" width="97" /></td>
-<td>
-<p><a href="https://courtneynreed.wordpress.com/">Courtney Reed</a></p>
-<p>Doctoral Student: Physiological sensing of the singing voice and musical imagery usage in vocalists.</td>
-</tr>
+  <tr>
+    <td><img class="align-left" src="assets/images/people/RogerDean.jpg" width="97"></td>
+    <td><a href="https://www.westernsydney.edu.au/staff_profiles/uws_profiles/professor_roger_dean">Roger Dean</a><br />
+      Visiting Professor: Computational Creativity, Improvisation, Music Cognition, Musical affect.
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img class="align-left" src="assets/images/people/AndreaHalpern.jpg" width="97"></td>
+    <td><a href="https://www.bucknell.edu/x16803.xml">Andrea Halpern</a><br />
+      Visiting Professor: Musical memory, imagery, music and aging, timbre.
+    </td>
+  </tr>
 
-<tr>
-<td colspan="2">
-<h2></h2>
-<h2>Associated members</h2>
-</td>
-</tr>
+  <tr>
+    <td><img class="align-left" src="assets/images/people/PeterHarrison.jpg" width="97" height="97"></td>
+    <td><a href="https://www.pmcharrison.com/">Peter Harrison</a><br />
+      Former doctoral Student and collaborator: Probabilistic modelling of polyphonic music.
+    </td>
+  </tr>
 
-<tr>
-<td><img class="align-left" src="assets/images/people/EmmanouilBenetos.png" width="97" ></td>
-<td><a href="https://www.eecs.qmul.ac.uk/~emmanouilb/">Emmanouil Benetos</a><br />
-Royal Academy of Engineering Research Fellow: Automatic Music Transcription.</td>
-</tr>
+  <tr>
+    <td><img class="align-left alignleft" src="assets/images/people/CharisSaitis.jpg" alt="67634" width="97"></td>
+    <td><a href="https://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Charalampos Saitis</a><br />
+      Lecturer in Digital Music Processing
+    </td>
+  </tr>
 
-<tr>
-<td><img src="assets/images/people/AnaClemente.png" alt="" width="97"></td>
-<td><a href="https://evocog.org/ana-clemente/">Ana Clemente</a><br />
-Visiting Doctoral Student: Human Evolution and Cognition Research Group, University of the Balearic Islands.<br />
-Projects:<br />
-<a href="https://mcl-musicbrowser.herokuapp.com/">Free Exploration and Free Play in Music&nbsp;</a><br />
-Musical and Visual Aesthetic Sensitivity and Active Inference<br />
-Musical Chills: Acoustic and Syntactic Elicitors<br />
-<a href="mailto:ana.c.magan@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> &nbsp;|&nbsp;<a href="https://orcid.org/0000-0002-0460-6793" target="_blank" rel="noopener noreferrer">ORCiD</a> | <a href="https://scholar.google.com/citations?user=E2b4owUAAAAJ&amp;hl=es&amp;oi=sra">Google Scholar</a> | <a href="https://github.com/AnaClemente">GitHub</a> | <a href="https://osf.io/ue8z3/">OSF</a></td>
-</tr>
-
-<tr>
-<td><img class="align-left" src="assets/images/people/RogerDean.jpg" width="97"></td>
-<td><a href="https://www.westernsydney.edu.au/staff_profiles/uws_profiles/professor_roger_dean">Roger Dean</a><br />
-Visiting Professor: Computational Creativity, Improvisation, Music Cognition, Musical affect.</td>
-</tr>
-
-<tr>
-<td><img class="align-left" src="assets/images/people/AndreaHalpern.jpg" width="97"></td>
-<td><a href="https://www.bucknell.edu/x16803.xml">Andrea Halpern</a><br />
-Visiting Professor: Musical memory, imagery, music and aging, timbre.</td>
-</tr>
-
-<tr>
-<td><img class="align-left" src="assets/images/people/PeterHarrison.jpg" width="97" height="97"></td>
-<td><a href="https://www.pmcharrison.com/">Peter Harrison</a><br />
-Former doctoral Student and collaborator: Probabilistic modelling of polyphonic music.</td>
-</tr>
-
-<tr>
-<td><img class="align-left alignleft" src="assets/images/people/CharisSaitis.jpg" alt="67634" width="97"></td>
-<td><a href="https://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Charalampos Saitis</a><br />
-Lecturer in Digital Music Processing</td>
-</tr>
-
-<tr>
-<td colspan="2">
-<h2></h2>
-<h2>Former members</h2>
-</td>
-</tr>
+  <tr>
+    <td colspan="2">
+      <h2></h2>
+      <h2>Former members</h2>
+    </td>
+  </tr>
 
 <tr>
 <td><img class="alignnone size-medium wp-image-397" src="assets/images/people/DaveBaker.png" alt="baker" width="97" /></td>

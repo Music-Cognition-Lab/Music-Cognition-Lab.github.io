@@ -478,10 +478,11 @@ tbody tr:nth-child(odd) th {
   margin-top: 0.75em;
 }
 
-.people-list table tr td {
+.people-list table tbody th tr td {
   border: none; 
   border-collapse: collapse;
   text-align: left;
+  vertical-align: center;
   background-color: "white";   
 }
 

@@ -3,7 +3,7 @@ title: People
 permalink: /people/
 ---
 
-<table class="people" width="100%">                    
+<table class="people-list" width="100%">                    
 
   <tr>
     <td colspan="2">

@@ -479,10 +479,14 @@ tbody tr:nth-child(odd) th {
 }
 
 .people-list table tbody th tr td {
-  border: none; 
+  border: none;
+  border-right:none;
+  border-left:none;
+  border-bottom:none;
+  border-top:none
   border-collapse: collapse;
   text-align: left;
-  vertical-align: center;
+  vertical-align: middle;
   background-color: "white";   
 }
 

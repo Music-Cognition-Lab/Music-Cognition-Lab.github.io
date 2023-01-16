@@ -478,6 +478,11 @@ tbody tr:nth-child(odd) th {
   margin-top: 0.75em;
 }
 
+.people table {
+  border: 0px;
+  background: "white";   
+}
+
 .list-item-people {
   display: inline-block;
   padding-right: 1em;

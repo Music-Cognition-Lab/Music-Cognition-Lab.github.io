@@ -5,14 +5,14 @@ permalink: /resources/
 
 <br>
 
-### Lab Resources
+<h4>Lab Resources</h4>
 
 <ul>
 <li><a href="https://osf.io/m7wzn/">Music Cognition Lab OSF</a>: lab meeting links and schedule, slides, notes, files and other resources.</li>
 <li><a href="https://github.com/Music-Cognition-Lab">Music Cognition Lab Github</a>: open-access software created by lab members.</li>
 </ul>
 
-### Join the lab
+<h4>Join the lab</h4>
 
 We welcome applications for post-doctoral research within the
 lab. Some relevant fellowship schemes can be found <a
@@ -39,7 +39,7 @@ in Sound &amp; Music Computing</a>.
 
 Internships are available periodically for particular research projects.
 
-### Organisations
+<h4>Organisations</h4>
 
 <ul>
 <li>The&nbsp;<a href="https://www.escomsociety.org/">European Society for the Cognitive Sciences of Music (ESCOM)</a></li>
@@ -52,7 +52,7 @@ Internships are available periodically for particular research projects.
 <li><a href="https://www.aisb.org.uk/">The Society for the Study of Artificial Intelligence and Simulation of Behaviour</a></li>
 </ul>
 
-### Conferences
+<h4>Conferences</h4>
 
 <ul>
 <li><a href="https://www.icmpc.org/">ICMPC</a>: International Conference on Music Perception and Cognition</li>
@@ -62,7 +62,7 @@ Internships are available periodically for particular research projects.
 <li><a href="https://www.fondazione-mariani.org/en/congressi/">Neurosciences and Music</a>: Triennial conference on the Neurosciences of Music</li>
 </ul>
 
-### Other Resources
+<h4>Other Resources</h4>
 
 <ul>
 <li><a href="https://www.fondazione-mariani.org/en/categoria_pubblicazione/neuromusic-publications/">The Neurosciences and Music</a>&nbsp;from the Mariani Foundation</li>

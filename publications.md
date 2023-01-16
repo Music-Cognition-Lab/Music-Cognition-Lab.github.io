@@ -5,12 +5,12 @@ permalink: /publications/
 
 <br>
 
-<h3>2023</h3>
+<h4>2023</h4>
 
 <p>van der Weij, B., Pearce, M. T., &amp; Honing, H. (2022). Computational modelling of rhythm perception and the role of enculturation. In D. Shanahan, J. A. Burgoyne, &amp; I. Quinn (Eds.) <em>Oxford Handbook of Music and Corpus Studies</em>. Oxford University Press.</p>
 
 
-<h3>2022</h3>
+<h4>2022</h4>
 
 <p>Krishnan, S., Carey, D., Dick, F., &amp; Pearce, M. T. (2022). <a href="https://mtpearce.github.io/assets/papers/KrishnanEtAl2022.pdf">Effects of statistical learning in passive and active contexts on reproduction and recognition of auditory sequences.</a> <i>Journal of Experimental Psychology: General</i>. In press. https://doi.org/10.1037/xge0001091</p>
 
@@ -25,7 +25,7 @@ permalink: /publications/
 <p>Kaplan, T., Cannon, J., Jamone, L., &amp; Pearce, M. T. (2022). <a href="https://www.marcus-pearce.com/assets/papers/KaplanEtAl2022.pdf">Modeling enculturated bias in entrainment to rhythmic patterns</a>. <em>PLOS Computational Biology</em>, 18(9), e1010579. https://doi.org/10.1371/journal.pcbi.1010579</p>
 
 
-<h3>2021</h3>
+<h4>2021</h4>
 
 <p>de Fleurian, R., &amp; Pearce, M. T. (2021). <a href="https://mtpearce.github.io/assets/papers/deFleurianPearce2021b.pdf">Chills in music: A systematic review.</a> <i>Psychological Bulletin, </i>147, 890-920<i>. </i>https://doi.org/10.1037/bul0000341</p>
 <p>Hansen, N.C., Kragness, H., Vuust, P., Trainor, L., &amp; Pearce, M. T. (2021). <a href="https://mtpearce.github.io/assets/papers/HansenEtAl2021.pdf">Predictive uncertainty underlies auditory boundary perception.</a> <i>Psychological Science</i>, 32, 1416-1425. https://doi.org/10.1177/0956797621997349</p>
@@ -37,7 +37,7 @@ permalink: /publications/
 <p>Nadal, M., &amp; Pearce, M. T. (2021). <a href="https://books.google.co.uk/books?id=8_dQEAAAQBAJ&amp;pg=PA36">The cognitive neuroscience of aesthetic experience.</a> In A. Chatterjee &amp; E. R. Cardillo (Eds.) <i>Brain, beauty and art.</i> Oxford: Oxford University Press. https://doi.org/10.1093/oso/9780197513620.003.0008</p>
 
 
-<h3>2020</h3>
+<h4>2020</h4>
 
 
 <p>de Fleurian, R., &amp; Pearce, M. T. (2020). <a href="https://doi.org/10.31234/osf.io/yc6d8">Chills in music: An integrative review.</a> <i>PsyArXiv</i>. https://doi.org/10.31234/osf.io/yc6d8</p>
@@ -53,7 +53,7 @@ permalink: /publications/
 <p>Harrison, P. M. C., Bianco, R., Chait, M., &amp; Pearce, M. T. (2020). <a href="https://mtpearce.github.io/assets/papers/HarrisonEtAl2020.pdf">PPM-Decay: A computational model of auditory prediction with memory decay</a> <i>PLOS Computational Biology</i>, 16(11), e1008304. https://doi.org/10.1371/journal.pcbi.1008304</p>
 
 
-<h3>2019</h3>
+<h4>2019</h4>
 
 
 <p>Morrison, S.J., Demorest, S.M., &amp; Pearce, M. T. (2019). <a href="https://mtpearce.github.io/assets/papers/MorrisonEtAl2019.pdf">Cultural Distance: A Computational Approach to Exploring Cultural Influences on Music Cognition.</a> In M. Thaut and D. Hodges (eds.), <i>Oxford Handbook of Music and the Brain</i> (pp. 42-65). Oxford: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198804123.013.3</p>
@@ -69,7 +69,7 @@ permalink: /publications/
 <p>Quiroga-Martinez, D. R., Hansen, N. C., Hoejlund, A., Pearce, M. T., Brattico, E., &amp; Vuust, P. (2019). <a href="https://mtpearce.github.io/assets/papers/Quiroga-MartinezEtAl2019.pdf">Reduced prediction error responses in high-as compared to low-uncertainty musical contexts.</a> <i>Cortex</i>, 120, 181-200. https://doi.org/10.1016/j.cortex.2019.06.010</p>
 
 
-<h3>2018</h3>
+<h4>2018</h4>
 
 
 <p>Duffy, S. &amp; Pearce, M. T. (2018). <a href="https://mtpearce.github.io/assets/papers/DuffyPearce2018.pdf">What makes rhythms hard to perform? An investigation using Steve Reich’s Clapping Music.</a> <i>PLoS One</i>, 13(10): e0205847. https://doi.org/10.1371/journal.pone.0205847</p>
@@ -85,7 +85,7 @@ permalink: /publications/
 <p>Pearce, M. T. &amp; Rohrmeier, M. (2018). <a href="https://mtpearce.github.io/assets/papers/PearceRohrmeier2018.pdf">Musical syntax II: Empirical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 487-505). Berlin: Springer-Verlag. https://doi.org/10.1007/978-3-662-55004-5_26</p>
 
 
-<h3>2017</h3>
+<h4>2017</h4>
 
 
 <p>Pearce, M. T. &amp; Müllensiefen, D. (2017). <a href="https://mtpearce.github.io/assets/papers/PearceMullensiefen2017.pdf">Compression-based Modelling of Musical Similarity Perception.</a> <i>Journal of New Music Research</i>, 46, 135-155. https://doi.org/10.1080/09298215.2017.1305419</p>
@@ -98,7 +98,7 @@ permalink: /publications/
 <p>Eerola, T., &amp; Pearce, M. T. (2017). <a href="https://mtpearce.github.io/assets/papers/EerolaPearce2017.pdf">Modelling historical audiences: What can be inferred?</a> <i>Journal of Interdisciplinary Music Studies</i>, 8, 132-140.</p>
 
 
-<h3>2016</h3>
+<h4>2016</h4>
 
 
 <p>Barascud, N., Pearce, M. T., Griffiths, T. D., Friston, K. J., &amp; Chait, M. (2016). <a href="https://mtpearce.github.io/assets/papers/BarascudEtAl2016.pdf">Brain responses in humans reveal ideal observer-like sensitivity to complex acoustic patterns.</a> <i>Proceedings of the National Academy of Sciences</i>, 113, E616-E625. https://doi.org/10.1073/pnas.1508523113</p>
@@ -112,7 +112,7 @@ permalink: /publications/
 <p>Hansen, N. C., Sadakata, M., &amp; Pearce, M. T. (2016). <a href="https://mtpearce.github.io/assets/papers/HansenSadakataPearce2016.pdf">Nonlinear changes in the rhythm of European art music: Quantitative support for historical musicology.</a> <i>Music Perception</i>, 33, 414-431. https://doi.org/10.1525/mp.2016.33.4.414</p>
 
 
-<h3>2015</h3>
+<h4>2015</h4>
 
 
 <p>Pearce, M. T. (2015). <a href="https://mtpearce.github.io/assets/papers/Pearce2015.pdf">Effects of expertise on the cognitive and neural processes involved in musical appreciation.</a> In J.P. Huston, M. Nadal, L. Agnati, F. Mora, and C.J. Cela-Conde (eds.), <i>The Oxford Handbook of Neuroaesthetics</i> (pp. 319-338). Oxford: Oxford University Press.</p>
@@ -120,14 +120,14 @@ permalink: /publications/
 <p>Carey, D., Rosen, S., Krishnan, S., Pearce, M.T., Shepherd, A., Aydelott, J., &amp; Dick, F. (2015). <a href="https://mtpearce.github.io/assets/papers/CareyEtAl2015.pdf">Generality and specificity in the effects of musical expertise on perception and cognition.</a> <i>Cognition</i>, 137, 81-105. https://doi.org/10.1016/j.cognition.2014.12.005</p>
 
 
-<h3>2014</h3>
+<h4>2014</h4>
 
 
 <p>Hansen, N. C. &amp; Pearce M. T. (2014). <a href="https://mtpearce.github.io/assets/papers/HansenPearce2014.pdf">Predictive uncertainty in auditory sequence processing.</a> <i>Frontiers in Psychology</i>, 5, 1052. https://doi.org/10.3389/fpsyg.2014.01052</p>
 <p>Duffy, S., &amp; Healey, P. G. T. (2014). <a href="http://pom.sagepub.com/content/42/6/888?etoc">The Conversational Organisation of Musical Contributions.</a> <i>Psychology of Music</i>, 42(6), 888–893.</p>
 
 
-<h3>2013</h3>
+<h4>2013</h4>
 
 
 <p>Brattico, E. &amp; Pearce, M. T. (2013). <a href="https://mtpearce.github.io/assets/papers/BratticoPearce2013.pdf">The neuroaesthetics of music.</a> <i>Psychology of Aesthetics, Creativity and the Arts</i>, 7, 48-61. http://doi.org/10.1037/a0031624</p>
@@ -142,7 +142,7 @@ permalink: /publications/
 <p>Song, Y., Dixon, S. &amp; Pearce, M. (2013). <a href="https://mtpearce.github.io/assets/papers/SongDixonPearceFazekas2013.pdf">Using Tags to Select Stimuli in the Study of Music and Emotion</a>. Proceedings of the 3rd International Conference on Music and Emotion (ICME), 11-15 Jun 2013, Finland.</p>
 
 
-<h3>2012</h3>
+<h4>2012</h4>
 
 
 <p>Carrus, E., Pearce, M. T., &amp; Bhattacharya, J. (2012). <a href="https://mtpearce.github.io/assets/papers/CarrusEtAlCortex2012.pdf">Melodic pitch expectation interacts with neural responses to syntactic but not semantic violations.</a> <i>Cortex</i>. https://doi.org/10.1016/j.cortex.2012.08.024.</p>
@@ -155,7 +155,7 @@ permalink: /publications/
 <p>Song, Y., Dixon, S., &amp; Pearce, M. T. (2012). <a href="https://mtpearce.github.io/assets/papers/SongDixonPearce-CMMR2012.pdf">A Survey of Music Recommendation Systems and Future Perspectives</a>. In proceedings of the 9th International Symposium on Computer Music Modelling and Retrieval (CMMR), 19-22 Jun 2012, London</p>
 
 
-<h3>2011</h3>
+<h4>2011</h4>
 
 <p>Pearce, M. T. (2011). <a href="https://mtpearce.github.io/assets/papers/Pearce2011.pdf">Time-series analysis of Music: Perceptual and Information Dynamics. </a><i>Empirical Musicology Review</i>, 6, 125-130. https://doi.org/10.18061/1811/51214</p>
 <p>Nadal, M., &amp; Pearce, M. T. (2011). <a href="https://mtpearce.github.io/assets/papers/NadalPearceBrainAndCognition2011.pdf">The Copenhagen Neuroaesthetics conference: Prospects and pitfalls for an emerging field. </a><i>Brain and Cognition</i>, 76, 172-183. https://doi.org/10.1016/j.bandc.2011.01.009</p>

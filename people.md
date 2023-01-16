@@ -7,7 +7,7 @@ permalink: /people/
 
   <tr>
     <td colspan="2">
-      <h3>Current members</h3>
+      <h4>Current members</h4>
     </td>
   </tr>
   
@@ -69,7 +69,7 @@ permalink: /people/
   
   <tr>
     <td colspan="2">
-      <h3>Associated members</h3>
+      <h4>Associated members</h4>
     </td>
   </tr>
 
@@ -119,7 +119,7 @@ permalink: /people/
 
   <tr>
     <td colspan="2">
-      <h3>Former members</h3>
+      <h4>Former members</h4>
     </td>
   </tr>
 
@@ -332,19 +332,19 @@ permalink: /people/
 
 <div class="pos_header">
 {% if role == 'postdoc' %}
-<h3>Postdoctoral Fellows</h3>
+<h4>Postdoctoral Fellows</h4>
  {% elsif role == 'pi' %}
-<h3>Principal Investigator</h3>
+<h4>Principal Investigator</h4>
  {% elsif role == 'gradstudent' %}
-<h3>Graduate Students</h3>
+<h4>Graduate Students</h4>
  {% elsif role == 'researchstaff' %}
-<h3>Research Staff</h3>
+<h4>Research Staff</h4>
  {% elsif role == 'visiting' %}
-<h3>Visiting Scholars</h3>
+<h4>Visiting Scholars</h4>
  {% elsif role == 'others' %}
-<h3>Honorary Members</h3>
+<h4>Honorary Members</h4>
  {% elsif role == 'alumni' %}
-<h3>Alumni</h3>
+<h4>Alumni</h4>
 {% endif %}
 </div>
 

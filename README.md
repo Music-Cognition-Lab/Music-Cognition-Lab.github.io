@@ -1,6 +1,6 @@
 # Music Cognition Lab
 
-Gratefully forked from: https://github.com/KordingLab/KordingLab.github.io
+Forked with thanks from: https://github.com/KordingLab/KordingLab.github.io
 
 
 

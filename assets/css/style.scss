@@ -552,7 +552,7 @@ tbody tr:nth-child(odd) th {
   text-align: center;
 }
 
-.people-list table tbody th tr td {
+/** .people-list table tbody th tr td {
   border: none;
   border-right:none;
   border-left:none;
@@ -563,6 +563,7 @@ tbody tr:nth-child(odd) th {
   vertical-align: middle;
   background-color: "white";   
 }
+**/ 
 
 .people-list img {
   display: block; 

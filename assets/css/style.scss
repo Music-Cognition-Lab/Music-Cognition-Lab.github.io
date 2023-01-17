@@ -563,3 +563,11 @@ tbody tr:nth-child(odd) th {
   vertical-align: middle;
   background-color: "white";   
 }
+
+.people-list img {
+  display: inline-block;
+  vertical-align: middle;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}

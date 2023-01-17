@@ -478,18 +478,6 @@ tbody tr:nth-child(odd) th {
   margin-top: 0.75em;
 }
 
-.people-list table tbody th tr td {
-  border: none;
-  border-right:none;
-  border-left:none;
-  border-bottom:none;
-  border-top:none;
-  border-collapse: collapse;
-  text-align: left;
-  vertical-align: middle;
-  background-color: "white";   
-}
-
 .list-item-people {
   display: inline-block;
   padding-right: 1em;
@@ -562,4 +550,16 @@ tbody tr:nth-child(odd) th {
 
 .group-photo {
   text-align: center;
+}
+
+.people-list table tbody th tr td {
+  border: none;
+  border-right:none;
+  border-left:none;
+  border-bottom:none;
+  border-top:none;
+  border-collapse: collapse;
+  text-align: left;
+  vertical-align: middle;
+  background-color: "white";   
 }

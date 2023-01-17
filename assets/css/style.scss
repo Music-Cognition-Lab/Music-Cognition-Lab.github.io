@@ -554,11 +554,8 @@ tbody tr:nth-child(odd) th {
 
 .people-list table tr td {
   border: none;
-  border-right:none;
-  border-left:none;
-  border-bottom:none;
-  border-top:none;
   border-collapse: collapse;
+  margin: 0 0 0 0;
   text-align: left;
   vertical-align: middle;
   background-color: "white";   
@@ -571,7 +568,7 @@ tbody tr:nth-child(odd) th {
   width: 10%;
   min-width: 85px;
   object-fit: cover;
-  margin: 1rem 0 1rem 0;
-  border-radius: 1px;
+  margin: 0 0 0 0;
+  border-radius: 0px;
   flex-shrink: 1;
 }

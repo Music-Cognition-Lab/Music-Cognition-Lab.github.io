@@ -567,7 +567,9 @@ tbody tr:nth-child(odd) th {
 .people-list img {
   display: inline-block;
   vertical-align: middle;
-  width: 120px;
-  height: 120px;
+  width: 10%; 
+  min-width: 100px;
+  /* width: 120px;*/
+  /* height: 120px;*/
   object-fit: cover;
 }

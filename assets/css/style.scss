@@ -552,3 +552,14 @@ tbody tr:nth-child(odd) th {
   text-align: center;
 }
 
+.people-list table tbody th tr td {
+  border: none;
+  border-right:none;
+  border-left:none;
+  border-bottom:none;
+  border-top:none;
+  border-collapse: collapse;
+  text-align: left;
+  vertical-align: middle;
+  background-color: "white";   
+}

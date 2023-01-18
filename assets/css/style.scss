@@ -572,8 +572,9 @@ tbody tr:nth-child(odd) th {
  
     img {
         display: inline-block;
-        width: 100%;
+        /* width: 100%; */ 
         min-width: 85px;
+        max-width: 85px;
         object-fit: cover;
         border-radius: 0px;
         flex-shrink: 1;

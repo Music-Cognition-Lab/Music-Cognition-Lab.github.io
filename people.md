@@ -7,7 +7,7 @@ permalink: /people/
 
   <h4>Current members</h4>
   
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/MarcusPearce.jpg" /></div>
     <div class="right"><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br>
       Lab leader.<br>
@@ -15,7 +15,7 @@ permalink: /people/
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/RemiDeFleurian.png"></div>
     <div class="right"><a href="https://remidefleurian.com" target="_blank" rel="noopener noreferrer">Rémi de Fleurian</a><br>
       Doctoral student: Expectation and chills in music.<br>
@@ -23,7 +23,7 @@ permalink: /people/
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/EdwardHall.jpg" /></div>
     <div class="right">Edward Hall<br>
       Doctoral Student: Probabilistic modelling of thematic development and structural coherence in music.<br>
@@ -31,7 +31,7 @@ permalink: /people/
     </div>
   </div>
   
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/gravatar.jpg" ></div>
     <div class="right">
       <a href="https://eecs.qmul.ac.uk/profiles/hamiltonmadelineann.html">Madeline Hamilton</a><br>
@@ -39,7 +39,7 @@ permalink: /people/
     </div>
   </div>
   
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/TomKaplan.jpg" ></div>
     <div class="right"><a href="https://kappers.github.io/">Thomas Kaplan</a><br>
       Doctoral Student: Probabilistic modelling of rhythm perception and production.<br>
@@ -47,7 +47,7 @@ permalink: /people/
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/AmiraKorkor.jpg" ></div>
     <div class="right">
       <a href="https://www.qmul.ac.uk/sbcs/staff/amirakorkor.html">Amira Korkor</a><br>
@@ -55,7 +55,7 @@ permalink: /people/
     </div>
   </div>
   
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/CourtneyReed.jpg" /></div>
     <div class="right">
       <a href="https://courtneynreed.wordpress.com/">Courtney Reed</a><br>
@@ -65,14 +65,14 @@ permalink: /people/
   
   <h4>Associated members</h4>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/EmmanouilBenetos.png" /></div>
     <div class="right"><a href="https://www.eecs.qmul.ac.uk/~emmanouilb/">Emmanouil Benetos</a><br>
       Royal Academy of Engineering Research Fellow: Automatic Music Transcription.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/AnaClemente.png" /></div>
     <div class="right"><a href="https://evocog.org/ana-clemente/">Ana Clemente</a><br>
       Visiting Doctoral Student: Human Evolution and Cognition Research Group, University of the Balearic Islands.<br>
@@ -81,28 +81,28 @@ permalink: /people/
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/RogerDean.jpg" /></div>
     <div class="right"><a href="https://www.westernsydney.edu.au/staff_profiles/uws_profiles/professor_roger_dean">Roger Dean</a><br>
       Visiting Professor: Computational Creativity, Improvisation, Music Cognition, Musical affect.
     </div>
   </div>
   
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/AndreaHalpern.jpg" /></div>
     <div class="right"><a href="https://www.bucknell.edu/x16803.xml">Andrea Halpern</a><br>
       Visiting Professor: Musical memory, imagery, music and aging, timbre.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/PeterHarrison.jpg" /></div>
     <div class="right"><a href="https://www.pmcharrison.com/">Peter Harrison</a><br>
       Former doctoral Student and collaborator: Probabilistic modelling of polyphonic music.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/CharisSaitis.jpg" /></div>
     <div class="right"><a href="https://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Charalampos Saitis</a><br>
       Lecturer in Digital Music Processing
@@ -111,7 +111,7 @@ permalink: /people/
 
   <h4>Former members</h4>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/DaveBaker.png" ></div>
     <div class="right">
       <a href="https://davidjohnbaker.rbind.io/">David Baker</a><br>
@@ -119,182 +119,182 @@ permalink: /people/
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/ChanghongWang.jpg" ></div>
     <div class="right"><a href="https://changhongw.github.io/">Changhong Wang</a><br>
       Doctoral Student: Computational analysis of expressive patterns in Chinese bamboo flute.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/BastiaanVanDerWeij.png" /></div>
     <div class="right"><a href="https://www.bastiaan.org/">Bastiaan van der Weij</a><br>
       Doctoral Student: Probabilistic modelling of musical metre perception.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/AdrienYcart.jpg" /></div>
     <div class="right"><a href="https://www.eecs.qmul.ac.uk/~ay304/">Adrien Ycart</a><br>
       Doctoral Student: Music Language Models for Audio Analysis.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/IoannaZioga.jpg" /></div>
     <div class="right"><a href="https://www.sbcs.qmul.ac.uk/staff/ioannazioga.html">Ioanna Zioga</a><br>
       Post-doctoral Research Assistant: Bridging the gap between learning and creativity using electroencephalography and brain stimulation.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/MiriamKirsch.png" /></div>
     <div class="right">Miriam Tenderini<br>
       Doctoral Student: Emotional priming effects between language and music.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/JiaJieDai.jpg" /></div>
     <div class="right">Jiajie Dai<br>
       Doctoral student: Modelling Intonation and Interaction in Vocal Ensembles.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/SarahSauve.jpg" ></div>
     <div class="right"><a href="https://sarahasauve.wordpress.com/" target="_blank" rel="noopener noreferrer">Sarah Sauvé</a><br>
       Doctoral Student: Prediction in Polyphony: Modelling Auditory Scene Analysis.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/YvonneBlokland.jpg" ></div>
     <div class="right">Yvonne Blokland<br>
       Post-doctoral Research Assistant: Modelling musical preference decisions.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/RodrigoSchramm.jpg" ></div>
     <div class="right"><a href="https://professor.ufrgs.br/rschramm/">Rodrigo Schramm</a><br>
       Academic visitor: Automatic transcription of multiple singers
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/SamDuffy.jpg" ></div>
     <div class="right"><a href="https://www.linkedin.com/in/samduffy/">Sam Duffy</a><br>
       Post-doctoral Research Assistant: game-based development of rhythm performance skills.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/NielsChristianHansen.jpg" /></div>
     <div class="right"><a href="https://musiccog.ohio-state.edu/home/index.php/Niels_Chr._Hansen" target="_blank" rel="noopener noreferrer">Niels Chr. Hansen</a><br>
       Doctoral Student: Musical expertise, uncertainty and statistical learning.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/KatAgres.jpg" ></div>
     <div class="right"><a href="https://www.a-star.edu.sg/ihpc/People/tid/376/Kat-Agres.aspx">Kat Agres</a><br>
       Post-doctoral Research Assistant: memory, expectation and preference in music perception.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/YadingSong.jpg" /></div>
     <div class="right">Yading Song<br>
       Doctoral Student: modelling musical emotion.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/LenaDelval.jpg" /></div>
     <div class="right">Léna Delval<br>
       Research assistant: modelling musical preference decisions.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/DavidSears.jpg" /></div>
     <div class="right"><a href="https://davidrwsears.com/">David Sears</a><br>
       Research Visitor: Simulating Melodic and Harmonic Expectations for Tonal Cadences Using Probabilistic Models.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/JordanSmith.jpg" /></div>
     <div class="right"><a href="https://jblsmith.github.io/">Jordan Bennett Louis Smith</a><br>
       Doctoral Student: perception of musical structure.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/KathrynEmerson.jpg" /></div>
     <div class="right"><a href="https://www.sheffield.ac.uk/hcs/staff/pgr/emerson">Kathryn Emerson</a><br>
       Research Assistant: memory, expectation and preference in music perception.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/JeremyGow.jpg" /></div>
     <div class="right"><a href="https://www.gold.ac.uk/computing/people/gow-jeremy/">Jeremy Gow</a><br>
       Research Fellow: Information-theoretic modelling of music.
     </div>
   </div>
   
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/SoniaWilkie.png" /></div>
     <div class="right">Sonia Wilkie<br>
       Doctoral Student: Auditory-visual looming.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/gravatar.jpg" /></div>
     <div class="right">Chunyang Song<br>
       Doctoral Student: modelling the perception of syncopation in music.
     </div>
   </div>
   
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/gravatar.jpg" /></div>
     <div class="right">Asterios Zacharakis<br>
       Doctoral Student: timbre perception.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/gravatar.jpg" /></div>
     <div class="right">Claire Meissner-Bernard<br>
       Masters Student: Influence of cultural exposure on musical expectations.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/gravatar.jpg" /></div>
     <div class="right">Michael Terrell<br>
       Doctoral Student: loudness perception.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/gravatar.jpg" /></div>
     <div class="right">Andrew Simpson<br>
       Doctoral Student: loudness perception.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/gravatar.jpg" /></div>
     <div class="right">JP Tauscher<br>
       Visiting researcher: predicting emotional experience of music using neural and physiological responses.
     </div>
   </div>
 
-  <div class="left">
+  <div>
     <div class="left"><img class="people-list" src="../assets/images/people/gravatar.jpg" /></div>
     <div class="right">Marco Bussi<br>
       Visiting researcher: auditory scene analysis.

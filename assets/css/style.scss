@@ -566,8 +566,8 @@ tbody tr:nth-child(odd) th {
 
     img {
         display: inline-block;
-        width: 15%;
-        min-width: 85px;
+        width: 25%;
+        min-width: 100px;
         object-fit: cover;
         border-radius: 0px;
         flex-shrink: 1;
@@ -580,7 +580,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .left {
-    width: 15%;
+    width: 25%;
     float: left;
 }
 

@@ -5,9 +5,7 @@ permalink: /people/
 
 <div class="container">
 
-  <div class="left">
-      <h4>Current members</h4>
-  </div>
+  <h4>Current members</h4>
   
   <div class="left">
     <div class="left"><img class="people-list" src="../assets/images/people/MarcusPearce.jpg" /></div>
@@ -65,9 +63,7 @@ permalink: /people/
     </div>
   </div>
   
-  <div class="left">
-      <h4>Associated members</h4>
-  </div>
+  <h4>Associated members</h4>
 
   <div class="left">
     <div class="left"><img class="people-list" src="../assets/images/people/EmmanouilBenetos.png" /></div>
@@ -113,9 +109,7 @@ permalink: /people/
     </div>
   </div>
 
-  <div class="left">
-      <h4>Former members</h4>
-  </div>
+  <h4>Former members</h4>
 
   <div class="left">
     <div class="left"><img class="people-list" src="../assets/images/people/DaveBaker.png" ></div>

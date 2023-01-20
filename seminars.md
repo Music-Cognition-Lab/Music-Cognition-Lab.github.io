@@ -12,9 +12,9 @@ permalink: /seminars/
 <tr>
 <td colspan="5"><b>2022</b></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr>
 <td>11:30am, Fri 25th Nov</td>
@@ -74,10 +74,10 @@ permalink: /seminars/
 </tr>
 <tr>
 <td colspan="5"><b>2021</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
+
 </tr>
 <tr>
 <td>11:30am, Fri 10th Dec</td>
@@ -152,10 +152,10 @@ Fri 15 Jan</td>
 </tr>
 <tr>
 <td colspan="5"><b>2020</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
+
 </tr>
 <tr>
 <td>3pm, Tues 1st Dec</td>
@@ -215,10 +215,10 @@ Fri 15 Jan</td>
 </tr>
 <tr>
 <td colspan="5"><b>2019</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
+
 </tr>
 <tr>
 <td>11.30am, Fri 4 Oct</td>
@@ -271,10 +271,10 @@ Fri 15 Jan</td>
 </tr>
 <tr>
 <td colspan="5"><b>2018</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
+
 </tr>
 <tr>
 <td>12pm, Fri 14 December</td>
@@ -320,10 +320,10 @@ Fri 15 Jan</td>
 </tr>
 <tr>
 <td colspan="5"><b>2017</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
+
 </tr>
 <tr>
 <td>11am, Fri&nbsp;17 Nov</td>
@@ -369,10 +369,10 @@ Fri 15 Jan</td>
 </tr>
 <tr>
 <td colspan="5"><b>2016</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
+
 </tr>
 <tr>
 <td>1pm, Mon 28 November</td>
@@ -418,10 +418,10 @@ Fri 15 Jan</td>
 </tr>
 <tr>
 <td colspan="5"><b>2015</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
+
 </tr>
 <tr>
 <td>12pm, Tue 8 December 2015</td>
@@ -453,10 +453,10 @@ Fri 15 Jan</td>
 </tr>
 <tr>
 <td colspan="5"><b>2014</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
+
 </tr>
 <tr>
 <td>2pm, Tue 14 Jan 2014</td>
@@ -467,10 +467,10 @@ Fri 15 Jan</td>
 </tr>
 <tr>
 <td  colspan="5"><b>2013</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
+
+
 </tr>
 <tr>
 <td>3pm, Thu 12 Dec 2013</td>
@@ -508,11 +508,11 @@ Fri 15 Jan</td>
 <td>BR3.02</td>
 </tr>
 <tr>
+
+
 <td colspan="5"><b>2012</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+
+
 </tr>
 <tr>
 <td>2pm, Wed 7 Nov 2012</td>

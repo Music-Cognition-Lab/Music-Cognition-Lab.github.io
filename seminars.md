@@ -10,7 +10,7 @@ permalink: /seminars/
 <table class="seminars">
 <tbody>
 <tr>
-<td><b>2022</b></td>
+<td colspan="5"><b>2022</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -73,7 +73,7 @@ permalink: /seminars/
 <td>CS308</td>
 </tr>
 <tr>
-<td><b>2021</b></td>
+<td colspan="5"><b>2021</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -151,7 +151,7 @@ Fri 15 Jan</td>
 <td>Skype</td>
 </tr>
 <tr>
-<td><b>2020</b></td>
+<td colspan="5"><b>2020</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -214,7 +214,7 @@ Fri 15 Jan</td>
 <td>ITL Meeting Room</td>
 </tr>
 <tr>
-<td><b>2019</b></td>
+<td colspan="5"><b>2019</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -270,7 +270,7 @@ Fri 15 Jan</td>
 <td>CS308</td>
 </tr>
 <tr>
-<td><b>2018</b></td>
+<td colspan="5"><b>2018</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -319,7 +319,7 @@ Fri 15 Jan</td>
 <td>ITL&nbsp;Meeting Room</td>
 </tr>
 <tr>
-<td><b>2017</b></td>
+<td colspan="5"><b>2017</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -368,7 +368,7 @@ Fri 15 Jan</td>
 <td>ITL Seminar Room</td>
 </tr>
 <tr>
-<td><b>2016</b></td>
+<td colspan="5"><b>2016</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -417,7 +417,7 @@ Fri 15 Jan</td>
 <td>Laws 2.10</td>
 </tr>
 <tr>
-<td><b>2015</b></td>
+<td colspan="5"><b>2015</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -452,7 +452,7 @@ Fri 15 Jan</td>
 <td>ITL Seminar Room</td>
 </tr>
 <tr>
-<td><b>2014</b></td>
+<td colspan="5"><b>2014</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -466,7 +466,7 @@ Fri 15 Jan</td>
 <td>CS414</td>
 </tr>
 <tr>
-<td><b>2013</b></td>
+<td  colspan="5"><b>2013</b></td>
 <td></td>
 <td></td>
 <td></td>
@@ -508,7 +508,7 @@ Fri 15 Jan</td>
 <td>BR3.02</td>
 </tr>
 <tr>
-<td><b>2012</b></td>
+<td colspan="5"><b>2012</b></td>
 <td></td>
 <td></td>
 <td></td>

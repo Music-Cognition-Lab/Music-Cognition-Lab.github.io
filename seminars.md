@@ -9,13 +9,11 @@ permalink: /seminars/
 <p>We welcome visitors to our seminars. If you are interested in attending or presenting, please get in touch with Marcus Pearce (marcus.pearce [at] qmul.ac.uk).</p>
 <table class="seminars">
 <tbody>
+
 <tr>
 <td colspan="5"><b>2022</b></td>
-<td></td>
-
-
-
 </tr>
+
 <tr>
 <td>11:30am, Fri 25th Nov</td>
 <td>Eline Smit</td>
@@ -72,13 +70,11 @@ permalink: /seminars/
 <td>Statistical Learning and Expectation Mechanisms as Applied to Music Technology for Healthcare</td>
 <td>CS308</td>
 </tr>
+
 <tr>
 <td colspan="5"><b>2021</b></td>
-
-
-
-
 </tr>
+
 <tr>
 <td>11:30am, Fri 10th Dec</td>
 <td>Niels Chr. Hansen</td>
@@ -150,13 +146,11 @@ Fri 15 Jan</td>
 <td>Open questions on tonality perception and construction in non-Western vocal music</td>
 <td>Skype</td>
 </tr>
+
 <tr>
 <td colspan="5"><b>2020</b></td>
-
-
-
-
 </tr>
+
 <tr>
 <td>3pm, Tues 1st Dec</td>
 <td>Gabriele Cecchetti</td>
@@ -213,13 +207,11 @@ Fri 15 Jan</td>
 <td>Movement Periodicity in Music Performance</td>
 <td>ITL Meeting Room</td>
 </tr>
+
 <tr>
 <td colspan="5"><b>2019</b></td>
-
-
-
-
 </tr>
+
 <tr>
 <td>11.30am, Fri 4 Oct</td>
 <td>Christian Walder</td>
@@ -269,13 +261,11 @@ Fri 15 Jan</td>
 <td>MMN, uncertainty and predictive processing in more realistic and complex musical contexts</td>
 <td>CS308</td>
 </tr>
+
 <tr>
 <td colspan="5"><b>2018</b></td>
-
-
-
-
 </tr>
+
 <tr>
 <td>12pm, Fri 14 December</td>
 <td>Sarah Sauvé</td>
@@ -318,13 +308,11 @@ Fri 15 Jan</td>
 <td>A musical mass experiment</td>
 <td>ITL&nbsp;Meeting Room</td>
 </tr>
+
 <tr>
 <td colspan="5"><b>2017</b></td>
-
-
-
-
 </tr>
+
 <tr>
 <td>11am, Fri&nbsp;17 Nov</td>
 <td>Sarah Knight</td>
@@ -367,13 +355,11 @@ Fri 15 Jan</td>
 <td>The Behavioural Economics of Music</td>
 <td>ITL Seminar Room</td>
 </tr>
+
 <tr>
 <td colspan="5"><b>2016</b></td>
-
-
-
-
 </tr>
+
 <tr>
 <td>1pm, Mon 28 November</td>
 <td>Sam Duffy</td>
@@ -416,13 +402,11 @@ Fri 15 Jan</td>
 <td>Speech is Special and Language is Structured</td>
 <td>Laws 2.10</td>
 </tr>
+
 <tr>
 <td colspan="5"><b>2015</b></td>
-
-
-
-
 </tr>
+
 <tr>
 <td>12pm, Tue 8 December 2015</td>
 <td>Fernando Bravo</td>
@@ -451,13 +435,11 @@ Fri 15 Jan</td>
 <td>Mental matching of musical structures: The veridical chaining hypothesis</td>
 <td>ITL Seminar Room</td>
 </tr>
+
 <tr>
 <td colspan="5"><b>2014</b></td>
-
-
-
-
 </tr>
+
 <tr>
 <td>2pm, Tue 14 Jan 2014</td>
 <td>Finn Upham</td>
@@ -465,13 +447,11 @@ Fri 15 Jan</td>
 <td>Breathing with: listener respiratory phase alignment with music</td>
 <td>CS414</td>
 </tr>
+
 <tr>
 <td  colspan="5"><b>2013</b></td>
-
-
-
-
 </tr>
+
 <tr>
 <td>3pm, Thu 12 Dec 2013</td>
 <td>Chia-Jung Tsay</td>
@@ -507,13 +487,11 @@ Fri 15 Jan</td>
 <td>Perceptual Audio Evaluation</td>
 <td>BR3.02</td>
 </tr>
+
 <tr>
-
-
 <td colspan="5"><b>2012</b></td>
-
-
 </tr>
+
 <tr>
 <td>2pm, Wed 7 Nov 2012</td>
 <td>Jonna Vuoskoski</td>

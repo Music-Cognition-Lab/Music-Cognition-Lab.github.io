@@ -68,7 +68,7 @@ permalink: /people/
   </tr>
   
     <tr class="people-list">
-    <td class="people-list"><img class="people-list" src="" /></td>
+    <td class="people-list"><img class="people-list" src="../assets/images/people/ChrisWinnard.jpg" /></td>
     <td>
       <a href="http://eecs.qmul.ac.uk/people/profiles/winnardchristopherjames.html">Chris Winnard</a><br>
       Doctoral Student: Decoding Musical Attention and Emotions with EarEEG

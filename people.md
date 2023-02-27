@@ -74,7 +74,7 @@ permalink: /people/
       Doctoral Student: Decoding Musical Attention and Emotions with EarEEG
       <a href="mailto:c.j.winnard@qmul.ac.uk">Email</a> | <a href="https://github.com/Chris-Winnard">GitHub</a>
     </td>
-  </tr>
+  </tr> 
   
   <tr class="people-list">
     <td colspan="2">

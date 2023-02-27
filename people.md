@@ -67,6 +67,14 @@ permalink: /people/
     </td>
   </tr>
   
+    <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="" /></td>
+    <td>
+      <a href="https://www.researchgate.net/profile/Chris-Winnard">Chris Winnard</a><br>
+      Doctoral Student: Decoding Musical Attention and Emotions with EarEEG
+    </td>
+  </tr>
+  
   <tr class="people-list">
     <td colspan="2">
       <h4>Associated members</h4>

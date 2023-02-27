@@ -70,8 +70,9 @@ permalink: /people/
     <tr class="people-list">
     <td class="people-list"><img class="people-list" src="" /></td>
     <td>
-      <a href="https://www.researchgate.net/profile/Chris-Winnard">Chris Winnard</a><br>
+      <a href="http://eecs.qmul.ac.uk/people/profiles/winnardchristopherjames.html">Chris Winnard</a><br>
       Doctoral Student: Decoding Musical Attention and Emotions with EarEEG
+      <a href="mailto:c.j.winnard@qmul.ac.uk">Email</a> | <a href="https://github.com/Chris-Winnard">GitHub</a>
     </td>
   </tr>
   

@@ -13,7 +13,7 @@ permalink: /people/
 
         <div class="col-sm-12 clearfix">
           <p><img src="../assets/images/people/MarcusPearce.jpg" class="img-responsive" width="15%" style="float: left" /></p>
-          <ul style="no-bullets">
+          <ul style="list-style: none;">
             <li><a href="https://www.marcus-pearce.com">Marcus Pearce</a></li>
             <li>Lab leader.</li>
             <li><a href="mailto:marcus.pearce@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/mtpearce" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/2nxqh/" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="https://orcid.org/0000-0002-1282-431X" target="_blank" rel="noopener noreferrer">ORCiD</a></li>

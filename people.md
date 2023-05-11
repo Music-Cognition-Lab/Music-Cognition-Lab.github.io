@@ -8,7 +8,7 @@ permalink: /people/
   <div class="row">
     <div id="gridid" class="col-sm-12">
       <h4 id="group-members">Current Members</h4>
-
+      <br>
       <div class="row">
 
         <div class="col-sm-12 clearfix">

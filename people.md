@@ -11,20 +11,21 @@ permalink: /people/
 
       <div class="row">
 
-        <div class="col-sm-6 clearfix">
+        <div class="col-sm-12 clearfix">
           <p><img src="../assets/images/people/MarcusPearce.jpg" class="img-responsive" width="25%" style="float: left" /></p>
           <p><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br></p>
           <p>Lab leader.</p>
           <p><a href="mailto:marcus.pearce@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/mtpearce" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/2nxqh/" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="https://orcid.org/0000-0002-1282-431X" target="_blank" rel="noopener noreferrer">ORCiD</a></p>
         </div>
+      </div>
 
-        <div class="col-sm-6 clearfix">
+      <div class="row">
+        <div class="col-sm-12 clearfix">
           <p><img src="../assets/images/people/MarcusPearce.jpg" class="img-responsive" width="25%" style="float: left" /></p>
           <p><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br></p>
           <p>Lab leader.</p>
           <p><a href="mailto:marcus.pearce@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/mtpearce" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/2nxqh/" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="https://orcid.org/0000-0002-1282-431X" target="_blank" rel="noopener noreferrer">ORCiD</a></p>
         </div>
-        
       </div>
     </div>
   </div>

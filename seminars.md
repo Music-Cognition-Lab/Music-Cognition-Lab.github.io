@@ -11,6 +11,34 @@ permalink: /seminars/
 <tbody>
 
 <tr>
+<td colspan="5"><b>2023</b></td>
+</tr>
+
+<tr>
+<td>4pm, Thu 11 May</td>
+<td>Anja Volk</td>
+<td>Utrecht University</td>
+<td>Music Information Computing: Understanding and employing patterns in music</td>
+<td>G2</td>
+</tr>
+
+<tr>
+<td>3pm, Tue 2 May</td>
+<td>Christoph Finkensiep</td>
+<td>EPFL</td>
+<td>Seeing the Wood for the Trees: Note-Level Structure in Tonal Music</td>
+<td>G2</td>
+</tr>
+
+<tr>
+<td>11am, Fri 24th Mar</td>
+<td>Mathias Klarlund</td>
+<td>Aarhus University</td>
+<td></td>
+<td>CS308</td>
+</tr>
+
+<tr>
 <td colspan="5"><b>2022</b></td>
 </tr>
 

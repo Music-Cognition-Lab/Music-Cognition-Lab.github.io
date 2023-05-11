@@ -12,7 +12,7 @@ permalink: /people/
       <div class="row">
 
         <div class="col-sm-12 clearfix">
-          <div class="left"><img src="../assets/images/people/MarcusPearce.jpg" class="img-responsive" width="15%" margin="10" style="float: left" /></div> 
+          <div class="left"><img src="../assets/images/people/MarcusPearce.jpg" class="people-list" style="float: left" /></div> 
           <div class="right">
             <ul class="no-bullets">
               <li><a href="https://www.marcus-pearce.com">Marcus Pearce</a></li>

@@ -11,7 +11,7 @@ permalink: /people/
 
       <div class="row">
 
-        <div class="col-sm-12 clearfix">
+        <div class="col-sm-6 clearfix">
           <p><img src="../assets/images/people/MarcusPearce.jpg" class="img-responsive" width="25%" style="float: left" /></p>
           <p><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br></p>
           <p>Lab leader.</p>
@@ -20,7 +20,7 @@ permalink: /people/
       </div>
 
       <div class="row">
-        <div class="col-sm-12 clearfix">
+        <div class="col-sm-6 clearfix">
           <p><img src="../assets/images/people/MarcusPearce.jpg" class="img-responsive" width="25%" style="float: left" /></p>
           <p><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br></p>
           <p>Lab leader.</p>

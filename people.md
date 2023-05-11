@@ -28,6 +28,14 @@ permalink: /people/
   </tr>
 
   <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/gravatar.jpg" ></td>
+    <td>
+      <a href="">Adam Garrow</a><br>
+      Doctoral Student: Computational Modelling of Expectancy-Based Perception of Timbral Structures
+    </td>
+  </tr>
+
+  <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/EdwardHall.jpg" /></td>
     <td>Edward Hall<br>
       Doctoral Student: Probabilistic modelling of thematic development and structural coherence in music.<br>
@@ -60,14 +68,6 @@ permalink: /people/
   </tr>
   
   <tr class="people-list">
-    <td class="people-list"><img class="people-list" src="../assets/images/people/CourtneyReed.jpg" /></td>
-    <td>
-      <a href="https://courtneynreed.wordpress.com/">Courtney Reed</a><br>
-      Doctoral Student: Physiological sensing of the singing voice and musical imagery usage in vocalists.
-    </td>
-  </tr>
-  
-    <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/ChrisWinnard.jpg" /></td>
     <td>
       <a href="http://eecs.qmul.ac.uk/people/profiles/winnardchristopherjames.html">Chris Winnard</a><br>
@@ -129,6 +129,14 @@ permalink: /people/
   <tr class="people-list">
     <td colspan="2">
       <h4>Former members</h4>
+    </td>
+  </tr>
+
+  <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/CourtneyReed.jpg" /></td>
+    <td>
+      <a href="https://courtneynreed.wordpress.com/">Courtney Reed</a><br>
+      Doctoral Student: Physiological sensing of the singing voice and musical imagery usage in vocalists.
     </td>
   </tr>
 

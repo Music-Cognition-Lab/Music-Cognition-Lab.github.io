@@ -12,7 +12,7 @@ permalink: /people/
       <div class="row">
 
         <div class="col-sm-12 clearfix">
-          <p><img src="../assets/images/people/MarcusPearce.jpg" class="img-responsive" style="float: left" /></p>
+          <p><img src="../assets/images/people/MarcusPearce.jpg" class="img-responsive" width="15%" mid-width="100px" style="float: left" /></p>
           <ul class="no-bullets" style="float: right">
             <li><a href="https://www.marcus-pearce.com">Marcus Pearce</a></li>
             <li>Lab leader</li>

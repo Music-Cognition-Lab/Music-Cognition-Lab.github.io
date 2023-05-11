@@ -34,7 +34,7 @@ permalink: /seminars/
 <td>11am, Fri 24th Mar</td>
 <td>Mathias Klarlund</td>
 <td>Aarhus University</td>
-<td></td>
+<td>Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</td>
 <td>CS308</td>
 </tr>
 

@@ -3,7 +3,6 @@ title: People
 permalink: /people/
 ---
 
-
 <!-- <div class="container-fluid">
   <div class="row">
     <div id="gridid" class="col-sm-12">
@@ -38,6 +37,8 @@ permalink: /people/
 </div>
 
 -->
+
+<div class="container">
 
 <table class="people-list" width="100%">                    
 
@@ -368,7 +369,7 @@ permalink: /people/
 
 </table>
 
-   <hr> 
+   <hr>                 
     
     <div class="group-photo">
       <p><img width = "75%" class='img-responsive center-block' src="assets/images/group/lab-2022-07.jpg"></p>
@@ -398,7 +399,9 @@ permalink: /people/
       <p><img style="width: 75%" class='img-responsive center-block' src="assets/images/group/lab-2015-07-01-lores.jpg" alt="Music Cognition Lab photo June 2015"></p>
       <p><i>June 2015: Léna Delval, Sam Duffy, Yvonne Blokland, Yading Song, Sarah Sauvé, Marcus Pearce, Marco Bussi, JP Tauscher, Miriam Tenderini.</i></p>
       <hr>
-    </div>              
+    </div>
+
+</div>
 
 
 <!-------------------------------------------------------------------------->

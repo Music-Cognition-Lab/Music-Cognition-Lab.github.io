@@ -368,6 +368,38 @@ permalink: /people/
 
 </table>
 
+   <hr> 
+    
+    <div class="group-photo">
+      <p><img width = "75%" class='img-responsive center-block' src="assets/images/group/lab-2022-07.jpg"></p>
+      <p><i>July 2022: Alejandra Carriero, ‎Eliana Valdez (Birkbeck University in London), Amira Korkor, <br> Edward Hall, Tom Kaplan, Marcus Pearce.</i></p>
+      <hr>
+    </div> 
+    
+    <div class="group-photo">
+      <p><img style="width: 75%" class='img-responsive center-block' src="assets/images/group/lab-2021-11-26-lores.jpg" alt="Music Cognition Lab photo December 2021"></p>
+      <p><i>December 2021: Amira Korkor, ‎Tom Kaplan, Madeline Hamilton, Katie Rose Sanfilippo (City, University of London), Peter Harrison (University of Cambridge), Edward Hall, Marcus Pearce.</i></p>
+      <hr>
+    </div> 
+    
+    <div class="group-photo">
+      <p><img style="width: 75%" class='img-responsive center-block' src="assets/images/group/lab-2018-03-lores.jpg" alt="Music Cognition Lab photo March 2018"></p>
+      <p><i>March 2018: Emmanouil Benetos, ‎Stine Sørensen‎ (visitor), Peter Harrison, Manuel Anglada-Tort, Adrien Ycart, Jiajie Dai, Changhong Wang, Ioanna Zioga, Marcus Pearce.</i></p>
+      <hr> 
+    </div>
+    
+    <div class="group-photo">
+      <p><img style="width: 75%" class='img-responsive center-block' src="assets/images/group/lab-2017-12-lores.jpg" alt="Music Cognition Lab photo December 2017"></p>
+      <p><i>December 2017: Jiajie Dai, Adrien Ycart, Changhong Wang, Edward Hall, Emmanouil Benetos, Rémi de Fleurian.</i></p>
+      <hr> 
+    </div> 
+    
+    <div class="group-photo">
+      <p><img style="width: 75%" class='img-responsive center-block' src="assets/images/group/lab-2015-07-01-lores.jpg" alt="Music Cognition Lab photo June 2015"></p>
+      <p><i>June 2015: Léna Delval, Sam Duffy, Yvonne Blokland, Yading Song, Sarah Sauvé, Marcus Pearce, Marco Bussi, JP Tauscher, Miriam Tenderini.</i></p>
+      <hr>
+    </div>              
+
 
 <!-------------------------------------------------------------------------->
 

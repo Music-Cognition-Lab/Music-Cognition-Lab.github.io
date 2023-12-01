@@ -57,6 +57,14 @@ permalink: /people/
   </tr>
 
   <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/RemiDeFleurian.png"></td>
+    <td><a href="https://remidefleurian.com" target="_blank" rel="noopener noreferrer">Rémi de Fleurian</a><br>
+      Doctoral student: Expectation and chills in music.<br>
+      <a href="mailto:r.defleurian@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/remidefleurian" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/f2jgd/" target="_blank" rel="noopener noreferrer">OSF</a><br>
+    </td>
+  </tr>
+
+  <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/gravatar.jpg" ></td>
     <td>
       <a href="">Adam Garrow</a><br>
@@ -77,6 +85,14 @@ permalink: /people/
     <td>
       <a href="https://eecs.qmul.ac.uk/profiles/hamiltonmadelineann.html">Madeline Hamilton</a><br>
       Doctoral Student: Improving AI-generated Music with Pleasure Models.
+    </td>
+  </tr>
+
+  <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/FaridaYusuf.jpg"></td>
+    <td>Farida Yusuf<br>
+      Doctoral student: Information-theoretic neural networks for online perception of auditory objects.<br>
+      <a href="mailto:f.yusuf@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://github.com/frdysf" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/h9y54/" target="_blank" rel="noopener noreferrer">OSF</a><br>
     </td>
   </tr>
   
@@ -131,14 +147,6 @@ permalink: /people/
     <td class="people-list"><img class="people-list" src="../assets/images/people/RogerDean.jpg" /></td>
     <td><a href="https://www.westernsydney.edu.au/staff_profiles/uws_profiles/professor_roger_dean">Roger Dean</a><br>
       Visiting Professor: Computational Creativity, Improvisation, Music Cognition, Musical affect.
-    </td>
-  </tr>
-
-  <tr class="people-list">
-    <td class="people-list"><img class="people-list" src="../assets/images/people/RemiDeFleurian.png"></td>
-    <td><a href="https://remidefleurian.com" target="_blank" rel="noopener noreferrer">Rémi de Fleurian</a><br>
-      Former doctoral Student and collaborator: Expectation and chills in music.<br>
-      <a href="mailto:r.defleurian@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/remidefleurian" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/f2jgd/" target="_blank" rel="noopener noreferrer">OSF</a><br>
     </td>
   </tr>
   

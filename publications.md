@@ -7,6 +7,8 @@ permalink: /publications/
 
 <h4>2023</h4>
 
+<p>Bianco, R., Hall, E. T. R., Pearce, M. T., &amp; Chait, M. (2023). Implicit auditory memory in older listeners: From encoding to 6-month retention. <i>Current Research in Neurobiology</i>, 5, 100115. https://doi.org/10.1016/j.crneur.2023.100115</p>
+
 <p>Pearce, M. T. (2023). <a href="https://mtpearce.github.io/assets/papers/Pearce2023.pdf">Music Perception.</a> In <i>Oxford Research Encyclopedia of Psychology.</i> https://doi.org/10.1093/acrefore/9780190236557.013.890</p>
 
 <p>Klarlund, M., Brattico, E., Pearce, M. T., Wu, Y., Vuust, P., Overgaard, M., & Du, Y. (2023). <a href="https://mtpearce.github.io/assets/papers/KlarlundEtAl2023.pdf">Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</a> <i>Cognition</i>, 235, 105405. https://doi.org/10.1016/j.cognition.2023.105405</p>

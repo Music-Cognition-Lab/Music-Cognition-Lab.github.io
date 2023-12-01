@@ -15,6 +15,14 @@ permalink: /seminars/
 </tr>
 
 <tr>
+<td>11am, Fri 24 November</td>
+<td>Andrea Halpern</td>
+<td>Bucknell University</td>
+<td>Memory for music: For better or worse</td>
+<td>CS424</td>
+</tr>
+
+<tr>
 <td>4pm, Thu 11 May</td>
 <td>Anja Volk</td>
 <td>Utrecht University</td>

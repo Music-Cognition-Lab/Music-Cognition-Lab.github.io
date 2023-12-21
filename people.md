@@ -130,14 +130,14 @@ permalink: /people/
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/EmmanouilBenetos.png" /></td>
     <td><a href="https://www.eecs.qmul.ac.uk/~emmanouilb/">Emmanouil Benetos</a><br>
-      Royal Academy of Engineering Research Fellow: Automatic Music Transcription.
+      Reader in Machine Listening, Queen Mary University of London.
     </td>
   </tr>
 
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/AnaClemente.png" /></td>
-    <td><a href="https://evocog.org/ana-clemente/">Ana Clemente</a><br>
-      Visiting Doctoral Student: Human Evolution and Cognition Research Group, University of the Balearic Islands.<br>
+    <td><a href="https://brainvitge.org/member/ana-clemente-sanchez/">Ana Clemente</a><br>
+      Postdoc, Max Planck Institute for Empirical Aesthetics, Frankfurt.<br>
       Projects: Musical and Visual Aesthetic Sensitivity and Active Inference<br>
       <a href="mailto:ana.c.magan@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> &nbsp;|&nbsp;<a href="https://orcid.org/0000-0002-0460-6793" target="_blank" rel="noopener noreferrer">ORCiD</a> | <a href="https://scholar.google.com/citations?user=E2b4owUAAAAJ&amp;hl=es&amp;oi=sra">Google Scholar</a> | <a href="https://github.com/AnaClemente">GitHub</a> | <a href="https://osf.io/ue8z3/">OSF</a>
     </td>
@@ -146,29 +146,22 @@ permalink: /people/
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/RogerDean.jpg" /></td>
     <td><a href="https://www.westernsydney.edu.au/staff_profiles/uws_profiles/professor_roger_dean">Roger Dean</a><br>
-      Visiting Professor: Computational Creativity, Improvisation, Music Cognition, Musical affect.
+      Professor, MARCS Institute for Brain, Behaviour & Development, Western Sydney University. 
     </td>
   </tr>
   
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/AndreaHalpern.jpg" /></td>
-    <td><a href="https://www.bucknell.edu/x16803.xml">Andrea Halpern</a><br>
-      Visiting Professor: Musical memory, imagery, music and aging, timbre.
+    <td><a href="https://www.bucknell.edu/fac-staff/andrea-halpern">Andrea Halpern</a><br>
+      Professor of Psychology, Bucknell University.
     </td>
   </tr>
 
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/PeterHarrison.jpg" /></td>
-    <td><a href="https://www.pmcharrison.com/">Peter Harrison</a><br>
-      Former doctoral Student and collaborator: Probabilistic modelling of polyphonic music.
-    </td>
-  </tr>
-
-  <tr class="people-list">
-    <td class="people-list"><img class="people-list" src="../assets/images/people/CharisSaitis.jpg" /></td>
-    <td><a href="https://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Charalampos Saitis</a><br>
-      Lecturer in Digital Music Processing
-    </td>
+    <td><a href="https://cms.mus.cam.ac.uk/staff/dr-peter-harrison">Peter Harrison</a><br>
+     University Assistant Professor, Faculty of Music, University of Cambridge. <br>
+     Former PhD student in the Music Cognition Lab.
   </tr>
 
   <tr class="people-list">
@@ -182,6 +175,7 @@ permalink: /people/
     <td>
       <a href="https://courtneynreed.wordpress.com/">Courtney Reed</a><br>
       Doctoral Student: Physiological sensing of the singing voice and musical imagery usage in vocalists.
+      
     </td>
   </tr>
 
@@ -209,14 +203,14 @@ permalink: /people/
 
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/AdrienYcart.jpg" /></td>
-    <td><a href="https://www.eecs.qmul.ac.uk/~ay304/">Adrien Ycart</a><br>
+    <td>Adrien Ycart<br>
       Doctoral Student: Music Language Models for Audio Analysis.
     </td>
   </tr>
 
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/IoannaZioga.jpg" /></td>
-    <td><a href="https://www.sbcs.qmul.ac.uk/staff/ioannazioga.html">Ioanna Zioga</a><br>
+    <td><a href="https://www.mpi.nl/people/zioga-ioanna">Ioanna Zioga</a><br>
       Post-doctoral Research Assistant: Bridging the gap between learning and creativity using electroencephalography and brain stimulation.
     </td>
   </tr>
@@ -265,14 +259,14 @@ permalink: /people/
 
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/NielsChristianHansen.jpg" /></td>
-    <td><a href="https://musiccog.ohio-state.edu/home/index.php/Niels_Chr._Hansen" target="_blank" rel="noopener noreferrer">Niels Chr. Hansen</a><br>
+    <td><a href="https://aias.au.dk/aias-fellows/former-fellows/former-fellows-archive/niels-chr-hansen" target="_blank" rel="noopener noreferrer">Niels Chr. Hansen</a><br>
       Doctoral Student: Musical expertise, uncertainty and statistical learning.
     </td>
   </tr>
 
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/KatAgres.jpg" ></td>
-    <td><a href="https://www.a-star.edu.sg/ihpc/People/tid/376/Kat-Agres.aspx">Kat Agres</a><br>
+    <td><a href="https://www.katagres.com/">Kat Agres</a><br>
       Post-doctoral Research Assistant: memory, expectation and preference in music perception.
     </td>
   </tr>
@@ -293,7 +287,7 @@ permalink: /people/
 
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/DavidSears.jpg" /></td>
-    <td><a href="https://davidrwsears.com/">David Sears</a><br>
+    <td><a href="https://www.depts.ttu.edu/music/aboutus/faculty/David-Sears.php">David Sears</a><br>
       Research Visitor: Simulating Melodic and Harmonic Expectations for Tonal Cadences Using Probabilistic Models.
     </td>
   </tr>
@@ -307,14 +301,14 @@ permalink: /people/
 
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/KathrynEmerson.jpg" /></td>
-    <td><a href="https://www.sheffield.ac.uk/hcs/staff/pgr/emerson">Kathryn Emerson</a><br>
+    <td>Kathryn Emerson<br>
       Research Assistant: memory, expectation and preference in music perception.
     </td>
   </tr>
 
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/JeremyGow.jpg" /></td>
-    <td><a href="https://www.gold.ac.uk/computing/people/gow-jeremy/">Jeremy Gow</a><br>
+    <td><a href="http://eecs.qmul.ac.uk/people/profiles/gowjeremy.html">Jeremy Gow</a><br>
       Research Fellow: Information-theoretic modelling of music.
     </td>
   </tr>
@@ -335,7 +329,7 @@ permalink: /people/
   
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/gravatar.jpg" /></td>
-    <td>Asterios Zacharakis<br>
+    <td><a href="https://asteriszacharakis.wixsite.com/science">Asterios Zacharakis</a><br>
       Doctoral Student: timbre perception.
     </td>
   </tr>

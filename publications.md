@@ -5,17 +5,32 @@ permalink: /publications/
 
 <br>
 
+<h4>2024</h4>
+
+<p>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. <a href="https://doi.org/10.1177/10298649231223077">https://doi.org/10.1177/10298649231223077</a></p>
+
+<p>van der Weij, B., Pearce, M. T., & Honing, H. (2024). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford University Press.</p>
+
+
 <h4>2023</h4>
 
+<<<<<<< HEAD
+<p>Pearce, M. T. (2023). <a href="https://www.marcus-pearce.com/assets/papers/Pearce2023.pdf">Music Perception.</a> In <i>Oxford Research Encyclopedia of Psychology.</i> <a href="https://doi.org/10.1093/acrefore/9780190236557.013.890">https://doi.org/10.1093/acrefore/9780190236557.013.890</a></p>
+
+<p>Klarlund, M., Brattico, E., Pearce, M. T., Wu, Y., Vuust, P., Overgaard, M., & Du, Y. (2023). <a href="https://www.marcus-pearce.com/assets/papers/KlarlundEtAl2023.pdf">Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</a> <i>Cognition</i>, 235, 105405. <a href="https://doi.org/10.1016/j.cognition.2023.105405">https://doi.org/10.1016/j.cognition.2023.105405</a></p>
+
+<p>Gold, B. P., Pearce, M. T., McIntosh, A. R., Chang, C., Dagher, A., & Zatorre, R. J. (2023). <a href="https://www.marcus-pearce.com/assets/papers/GoldEtAl2023.pdf">Auditory and reward structures reflect the pleasure of musical expectancies during naturalistic listening.</a> <i>Frontiers in Neuroscience</i>, 17, 1209398. <a href="https://doi.org/10.3389/fnins.2023.1209398">https://doi.org/10.1016/j.cognition.2023.105405</a></p>
+=======
 <p>Bianco, R., Hall, E. T. R., Pearce, M. T., &amp; Chait, M. (2023). Implicit auditory memory in older listeners: From encoding to 6-month retention. <i>Current Research in Neurobiology</i>, 5, 100115. https://doi.org/10.1016/j.crneur.2023.100115</p>
 
 <p>Pearce, M. T. (2023). <a href="https://mtpearce.github.io/assets/papers/Pearce2023.pdf">Music Perception.</a> In <i>Oxford Research Encyclopedia of Psychology.</i> https://doi.org/10.1093/acrefore/9780190236557.013.890</p>
+>>>>>>> e3ab921edf99996ebd92c7a085891819dc6f33b5
 
-<p>Klarlund, M., Brattico, E., Pearce, M. T., Wu, Y., Vuust, P., Overgaard, M., & Du, Y. (2023). <a href="https://mtpearce.github.io/assets/papers/KlarlundEtAl2023.pdf">Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</a> <i>Cognition</i>, 235, 105405. https://doi.org/10.1016/j.cognition.2023.105405</p>
+<p>Kaplan, T., Jamone, L., & Pearce, M. T. (2023). <a href="https://www.marcus-pearce.com/assets/papers/KaplanEtAl2023.pdf">Probabilistic modelling of microtiming perception.</a> <i>Cognition</i>, 239, 105532. <a href="https://doi.org/10.1016/j.cognition.2023.105532">https://doi.org/10.1016/j.cognition.2023.105405</a></p>
 
-<p>Kaplan, T., Jamone, L., & Pearce, M. T. (2023). <a href="https://mtpearce.github.io/assets/papers/KaplanEtAl2023.pdf">Probabilistic modelling of microtiming perception.</a> <i>Cognition</i>, 239, 105532. https://doi.org/10.1016/j.cognition.2023.105532</p>
+<p>Bianco, R., Hall, E. T., Pearce, M. T., & Chait, M. (2023). <a href="https://www.marcus-pearce.com/assets/papers/BiancoEtAl2023.pdf">Implicit auditory memory in older listeners: From encoding to 6-month retention.</a> <i>Current Research in Neurobiology</i>, 100115. <a href="https://doi.org/10.1016/j.crneur.2023.100115">https://doi.org/10.1016/j.cognition.2023.105405</a></p>
 
-<p>van der Weij, B., Pearce, M. T., &amp; Honing, H. (2023). Computational modelling of rhythm perception and the role of enculturation. In D. Shanahan, J. A. Burgoyne, &amp; I. Quinn (Eds.) <em>Oxford Handbook of Music and Corpus Studies</em>. Oxford University Press.</p>
+<p>Cheung, V., Harrison, P., Koelsch, S., Pearce, M., Friederici, A., & Meyer, L. (2023). <a href="https://www.marcus-pearce.com/assets/papers/CheungEtAl2023.pdf">Cognitive and sensory expectations independently shape musical expectancy and pleasure.</a> <i>Philosophical Transactions of the Royal Society B: Biological Sciences</i>, 379, 2022042020220420. <a href="http://doi.org/10.1098/rstb.2022.0420">https://doi.org/10.1016/j.cognition.2023.105405</a></p>
 
 
 <h4>2022</h4>

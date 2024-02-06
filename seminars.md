@@ -15,6 +15,14 @@ permalink: /seminars/
 </tr>
 
 <tr>
+<td>11am, Fri 9 February</td>
+<td>Polina Proutskova</td>
+<td>BBC Research</td>
+<td>VocalNotes Project [title TBC]</td>
+<td>CS424</td>
+</tr>
+
+<tr>
 <td>11am, Fri 24 November</td>
 <td>Andrea Halpern</td>
 <td>Bucknell University</td>

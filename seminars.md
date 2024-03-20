@@ -11,7 +11,7 @@ permalink: /seminars/
 <tbody>
 
 <tr>
-<td colspan="5"><b>2023</b></td>
+<td colspan="5"><b>2024</b></td>
 </tr>
 
 <tr>
@@ -23,12 +23,34 @@ permalink: /seminars/
 </tr>
 
 <tr>
+<td colspan="5"><b>2023</b></td>
+</tr>
+
+<tr>
 <td>11am, Fri 24 November</td>
 <td>Andrea Halpern</td>
 <td>Bucknell University</td>
 <td>Memory for music: For better or worse</td>
 <td>CS424</td>
 </tr>
+
+<tr>
+<td>11am, Fri 3 November</td>
+<td>Ilana Harris</td>
+<td>UCL</td>
+<td>Is song processing distinct and special in the auditory cortex?</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 14 July</td>
+<td>Tomas Matthews</td>
+<td>Aarhus University</td>
+<td>Predictive Processes Shape the Relation between Syncopation and the Urge to Move to Music</td>
+<td>G2</td>
+</tr>
+
+
 
 <tr>
 <td>4pm, Thu 11 May</td>

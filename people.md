@@ -91,7 +91,7 @@ permalink: /people/
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/FaridaYusuf.jpg"></td>
     <td>Farida Yusuf<br>
-      Doctoral student: Information-theoretic neural networks for online perception of auditory objects.<br>
+      Doctoral student: Neural computing for auditory object analysis.<br>
       <a href="mailto:f.yusuf@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://github.com/frdysf" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/h9y54/" target="_blank" rel="noopener noreferrer">OSF</a><br>
     </td>
   </tr>

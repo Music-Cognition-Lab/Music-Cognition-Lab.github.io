@@ -5,9 +5,16 @@ permalink: /seminars/
 
 <br>
 
-<p>The&nbsp;Music Cognition Lab&nbsp;holds weekly&nbsp;seminars&nbsp;on the Mile End campus at Queen Mary University of London. Sessions with invited speakers are listed below.</p>
-<p>We welcome visitors to our seminars. If you are interested in attending or presenting, please get in touch with Marcus Pearce (marcus.pearce [at] qmul.ac.uk).</p>
+<p>The Lab holds weekly seminars on the Mile End
+campus at Queen Mary University of London. Sessions with invited
+speakers are listed below.</p>
+
+<p>We welcome visitors to our seminars. If you are interested in
+attending or presenting, please get in touch with Marcus Pearce
+(marcus.pearce [at] qmul.ac.uk).</p>
+
 <table class="seminars">
+
 <tbody>
 
 <tr>

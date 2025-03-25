@@ -5,16 +5,16 @@ permalink: /events/
 
 <br>
 
-<h4>Music Cognition Lab 10th Anniversary Workshop, July 1st 2022, Queen Mary University of London</h4>
+<h4>Lab 10th Anniversary Workshop, July 1st 2022, Queen Mary University of London</h4>
 <hr>
-<p>A workshop to celebrate the QMUL Music Cognition Lab&#8217;s tenth anniversary, featuring presentations from former and current members of the lab on their research.</p>
+<p>A workshop to celebrate the Lab&#8217;s tenth anniversary, featuring presentations from former and current members of the lab on their research.</p>
 <p>Speakers include: Marcus Pearce, Kat Agres, Amira Korkor, Edward Hall, Ana Clemente, Madeline Hamilton, Niels Chr. Hansen, Polina Proutskova, Peter Harrison, Remi de Fleurian, Tom Kaplan, Roberta Bianco, Ioanna Zioga.</p>
 <p>Further information is available on the website: <a href="https://www.eventbrite.com/e/qmul-music-cognition-lab-10th-anniversary-workshop-tickets-334508623297">https://www.eventbrite.com/e/qmul-music-cognition-lab-10th-anniversary-workshop-tickets-334508623297</a></p>
 
 
 <h4>International Conference of Students of Systematic Musicology (SysMus 2017), September 13-15th 2017, Queen Mary University of London</h4>
 <hr>
-<p>The tenth anniversary conference in this series was hosted by the Music Cognition Lab at Queen Mary University of London. Details are available here: <a href="https://sysmus17.qmul.ac.uk/">https://sysmus17.qmul.ac.uk/</a>.</p>
+<p>The tenth anniversary conference in this series was hosted by the Lab at Queen Mary University of London. Details are available here: <a href="https://sysmus17.qmul.ac.uk/">https://sysmus17.qmul.ac.uk/</a>.</p>
 
 
 <h4>Workshop on Auditory Neuroscience, Cognition and Modelling (WANCM 2016), Wed February 17th 2016, Queen Mary University of London</h4>

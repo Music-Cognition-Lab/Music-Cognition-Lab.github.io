@@ -51,16 +51,14 @@ permalink: /people/
   <tr class="people-list">
 
 <td class="people-list"><img class="people-list" src="../assets/images/people/MarcusPearce.jpg" /></td>
-    <td><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br>
-      Lab leader.<br>
+    <td><a href="https://www.marcus-pearce.com">Marcus Pearce</a><br>Lab co-leader.<br>
       <a href="mailto:marcus.pearce@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/mtpearce" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/2nxqh/" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="https://orcid.org/0000-0002-1282-431X" target="_blank" rel="noopener noreferrer">ORCiD</a>
     </td>
   </tr>
 
 <tr>
 <td class="people-list"><img class="people-list" src="../assets/images/people/IranRoman.jpg" /></td>
-    <td><a href="https://iranroman.github.io">Iran Roman</a><br>
-      Lab leader.<br>
+    <td><a href="https://iranroman.github.io">Iran Roman</a><br>Lab co-leader.<br>
       <a href="mailto:i.roman@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.com/citations?user=W_PoFfkAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/iranroman" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="" target="_blank" rel="noopener noreferrer">ORCiD</a>
     </td>
   </tr>

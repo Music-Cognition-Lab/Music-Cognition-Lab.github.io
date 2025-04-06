@@ -57,8 +57,9 @@ permalink: /people/
     </td>
   </tr>
 
+<tr>
 <td class="people-list"><img class="people-list" src="../assets/images/people/IranRoman.jpg" /></td>
-    <td><a href="https://iranroman.github.io">Marcus Pearce</a><br>
+    <td><a href="https://iranroman.github.io">Iran Roman</a><br>
       Lab leader.<br>
       <a href="mailto:i.roman@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.com/citations?user=W_PoFfkAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/iranroman" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="" target="_blank" rel="noopener noreferrer">OSF</a> | &nbsp;<a href="" target="_blank" rel="noopener noreferrer">ORCiD</a>
     </td>

@@ -17,8 +17,8 @@ attending or presenting, please get in touch with Marcus Pearce
 
 <tbody>
 
-<tr>
-<td cols
+<!-- <tr>
+<td cols -->
 
 <tr>
 <td colspan="5"><b>2025</b></td>
@@ -65,6 +65,14 @@ attending or presenting, please get in touch with Marcus Pearce
 <td>Roger Dean</td>
 <td>Western Sydney University</td>
 <td>Musical and Cognitive Benefits in novice Keyboard study in older people</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 13 September</td>
+<td>Mark Gotham</td>
+<td>King's College London</td>
+<td>Towards an 'Everything Corpus': A Framework and Guidelines for the Coordination of Comprehensive Multimodal Music Data</td>
 <td>CS424</td>
 </tr>
 

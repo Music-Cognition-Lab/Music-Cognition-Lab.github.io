@@ -18,15 +18,86 @@ attending or presenting, please get in touch with Marcus Pearce
 <tbody>
 
 <tr>
+<td cols
+
+<tr>
+<td colspan="5"><b>2025</b></td>
+</tr>
+
+<tr>
+<td>11am, Fri 13 June</td>
+<td>Anaïs Tran Ngoc</td>
+<td>University Côte D'Azur</td>
+<td>Understanding music to speech transfers through the lens of whistled speech, an insight into perceptive processes</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 6 June</td>
+<td>Tuomas Eerola</td>
+<td>Durham University</td>
+<td>Computational Recognition of Emotions in Music: A Meta-Analysis and Critical Review</td>
+<td>G2</td>
+</tr>
+
+<tr>
+<td>11am, Fri 28 March</td>
+<td>Baptiste Bacot</td>
+<td>University of Oslo</td>
+<td>Groove design in Bass music</td>
+<td>CS424</td>
+</tr>
+
+<tr>
 <td colspan="5"><b>2024</b></td>
 </tr>
 
 <tr>
-<td>11am, Fri 9 February</td>
+<td>11am, Tue 8 October</td>
+<td>Mats B. Küssner</td>
+<td>Humboldt-Universität zu Berlin</td>
+<td>Bridging the Senses: How Music Evokes Visual Mental Imagery</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Tue 1 October</td>
+<td>Roger Dean</td>
+<td>Western Sydney University</td>
+<td>Musical and Cognitive Benefits in novice Keyboard study in older people</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 7 June</td>
+<td>Oded Ben-Tal</td>
+<td>Kingston University London</td>
+<td>Music Artificial (so called) Intelligence</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 26 April </td>
+<td>Ana Clemente & Olivier Penacchio</td>
+<td>Max Planck Institute for Empirical Aesthetics & Autonomous University of Barcelona</td>
+<td>Hedonic foraging: Hedonic evaluation in active inference</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Thu 4 April</td>
+<td>Dennis Hamm</td>
+<td></td>
+<td>Sentisonics: A new emotion-centric genre-neutral music theory</td>
+<td>G2</td>
+</tr>
+
+<tr>
+<td>12pm, Fri 15 March</td>
 <td>Polina Proutskova</td>
 <td>BBC Research</td>
-<td>VocalNotes Project [title TBC]</td>
-<td>CS424</td>
+<td>Investigating the Perception of Note Pitch and Boundaries through Varying Transcriptions of Vocal Performances from Five Musical Cultures</td>
+<td>GC103</td>
 </tr>
 
 <tr>
@@ -50,14 +121,28 @@ attending or presenting, please get in touch with Marcus Pearce
 </tr>
 
 <tr>
+<td>11am, Fri 13 October</td>
+<td>Sarah Sauvé</td>
+<td>University of Lincoln</td>
+<td>Incorporating feminist practices into (psychological) science - the why, the what and the how</td>
+<td>CS308</td>
+</tr>
+
+<tr>
+<td>11am, Fri 15 September</td>
+<td>Sai Pidatala</td>
+<td>Queen Mary University of London</td>
+<td>Indian Music Preference as a Function of Audio Features and Emotional Experience</td>
+<td>CS308</td>
+</tr>
+
+<tr>
 <td>11am, Fri 14 July</td>
 <td>Tomas Matthews</td>
 <td>Aarhus University</td>
 <td>Predictive Processes Shape the Relation between Syncopation and the Urge to Move to Music</td>
 <td>G2</td>
 </tr>
-
-
 
 <tr>
 <td>4pm, Thu 11 May</td>

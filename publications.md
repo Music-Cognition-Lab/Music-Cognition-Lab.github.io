@@ -3,13 +3,41 @@ title: Publications
 permalink: /publications/
 ---
 
-<br>
+<h6>2026</h6>
+
+<p>Bouwer, F. L., Damsma, A., Kaplan, T. M., Sarvestani, M. G., & Pearce, M. T. (2026). <a href="https://www.marcus-pearce.com/assets/papers/BouwerEtAl2026.pdf">Abstract representations underlie rhythm perception and production: Evidence from a probabilistic model of temporal structure.</a> <i>Cognition</i>, 268, 106345. <a href="https://doi.org/10.1016/j.cognition.2025.106345">https://doi.org/10.1016/j.cognition.2025.106345</a></p>
+
+<p>de Fleurian, R., Clemente, A., Benetos, E., & Pearce, M. T. (2024). <a href="">Expectation elicits music-evoked chills.</a> <i>Nature Communications</i>, in press.</p>
+
+
+<h4>2025</h4>
+
+<p>Pearce, M. T. (2025). <a href="https://www.marcus-pearce.com/l4"><i>Learning to listen, listening to learn: Music perception and the psychology of enculturation</i>.</a> Oxford University Press. <a href="https://doi.org/10.1093/oso/9780198848004.001.0001">https://doi.org/10.1093/oso/9780198848004.001.0001</a></p>
+
+<p>Hall, E. T., & Pearce, M. T. (2025). <a href="https://www.marcus-pearce.com/assets/papers/HallPearce2025.pdf">Perception of Thematic Structure in Music Over Short and Long Timescales.</a> <i>Music Perception</i>, 43(2), 105-132. <a href="https://doi.org/10.1525/mp.2025.2459476">https://doi.org/10.1525/mp.2025.2459476</a>.</p>
+
+<p>Magami, K., Bianco, R., Hall, E., Pearce, M., & Chait, M. (2025). <a href="https://www.marcus-pearce.com/assets/papers/MagamiEtAl2025.pdf">The Effect of Previously Encountered Sensory Information on Neural Representations of Predictability: Evidence From Human EEG.</a> <i>European Journal of Neuroscience</i>, 62(10), e70300.  <a href=" https://doi.org/10.1111/ejn.70300">https://doi.org/10.1111/ejn.70300</a></p>
+
+<p>Korkor, A., Noreika, V., Di Bernardi Luft, C., & Pearce, M. T. (2025). <a href="https://www.marcus-pearce.com/assets/papers/KorkorEtAl2025.pdf">Relationships between surprise, liking, and error perception in musical listening.</a> <i>Psychology of Aesthetics, Creativity, and the Arts</i>, in press. <a href="https://doi.org/10.1037/aca0000811">https://doi.org/10.1037/aca0000811</a></p>
+
+<p>Bianco, R., Magami, K., Pearce, M., & Chait, M. (2025). <a href="">Discovery, Interruption, and Updating of Auditory Regularities in Memory: Evidence from Low-Frequency Brain Dynamics in Human MEG.</a> <i>Journal of Neuroscience</i>, e0629252025. <a href="https://doi.org/10.1523/JNEUROSCI.0629-25.2025">https://doi.org/10.1523/JNEUROSCI.0629-25.2025</a></p>
+
 
 <h4>2024</h4>
 
-<p>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. <a href="https://doi.org/10.1177/10298649231223077">https://doi.org/10.1177/10298649231223077</a></p>
+<p>Bonetti, L., Stevner, A., Deco, G., Whybrow, P. C., Pearce, M. T., Pantazis, D., Vuust, P., & Kringelbach, M. L. (2024). <a href="https://www.marcus-pearce.com/assets/papers/BonettiEtAl2024.pdf">Spatiotemporal whole-brain activity and functional connectivity of melodies recognition.</a> <i>Cerebral Cortex</i>, 34, bhae320. <a href="https://doi.org/10.1093/cercor/bhae320">https://doi.org/10.1093/cercor/bhae320</a></p>
 
-<p>van der Weij, B., Pearce, M. T., & Honing, H. (2024). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford University Press.</p>
+<p>Clemente, A., Kaplan, T. M., & Pearce, M. T. (2024). <a href="https://www.marcus-pearce.com/assets/papers/ClementeEtAl2024.pdf">Perceptual representations mediate effects of stimulus properties on liking for music.</a> <i>Annals of the New York Academy of Sciences</i>, 1533, 169-180. <a href="https://doi.org/10.1111/nyas.15106">https://doi.org/10.1111/nyas.15106</a></p>
+
+<p>Hamilton, M., & Pearce, M. T. (2024). <a href="https://www.marcus-pearce.com/assets/papers/HamiltonPearce2024.pdf">Trajectories and revolutions in popular melody based on U.S. charts from 1950 to 2023.</a> <i>Scientific Reports</i>, 14, 14749. <a href="https://doi.org/10.1038/s41598-024-64571-x">https://doi.org/10.1038/s41598-024-64571-x</a></p>
+
+<p>Hamilton, M., Clemente, A., Hall, E. T. R., & Pearce, M. T. (2024). <a href="https://www.marcus-pearce.com/assets/papers/HamiltonEtAl2024.pdf">The Billboard melodic music dataset (BiMMuDa).</a> <i>Transactions of the International Society for Music Information Retrieval</i>, 7(1), 113– 128. <a href="https://doi.org/10.5334/tismir.168">https://doi.org/10.5334/tismir.168</a></p>
+
+<p>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="https://www.marcus-pearce.com/assets/papers/ReedEtAl2024.pdf">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. <a href="https://doi.org/10.1177/10298649231223077">https://doi.org/10.1177/10298649231223077</a></p>
+
+<p>van der Weij, B., Pearce, M. T., & Honing, H. (2024). <a href="https://www.marcus-pearce.com/assets/papers/VanDerWeijEtAl2024.pdf">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780190945442.013.13">https://doi.org/10.1093/oxfordhb/9780190945442.013.13</a></p>
+
+<p>Zioga, I., Harrison, P. M. C., Pearce, M. T., Bhattacharya, J., Di, C., & Luft, B. (2024). <a href="https://www.marcus-pearce.com/assets/papers/ZiogaEtAl2024.pdf">The association between liking, learning and creativity in music.</a> <i>Scientific Reports</i>, 14, 19048. <a href="https://doi.org/10.1038/s41598-024-70027-z">https://doi.org/10.1038/s41598-024-70027-z</a></p>
 
 
 <h4>2023</h4>

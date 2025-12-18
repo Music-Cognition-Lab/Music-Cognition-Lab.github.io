@@ -7,7 +7,7 @@ permalink: /publications/
 
 <p>Bouwer, F. L., Damsma, A., Kaplan, T. M., Sarvestani, M. G., & Pearce, M. T. (2026). <a href="https://www.marcus-pearce.com/assets/papers/BouwerEtAl2026.pdf">Abstract representations underlie rhythm perception and production: Evidence from a probabilistic model of temporal structure.</a> <i>Cognition</i>, 268, 106345. <a href="https://doi.org/10.1016/j.cognition.2025.106345">https://doi.org/10.1016/j.cognition.2025.106345</a></p>
 
-<p>de Fleurian, R., Clemente, A., Benetos, E., & Pearce, M. T. (2024). <a href="">Expectation elicits music-evoked chills.</a> <i>Nature Communications</i>, in press.</p>
+<p>de Fleurian, R., Clemente, A., Benetos, E., & Pearce, M. T. (2026). <a href="">Melodic expectation as an elicitor of music-evoked chills.</a> <i>Nature Communications</i>, in press.</p>
 
 
 <h4>2025</h4>

@@ -63,28 +63,11 @@ permalink: /people/
     </td>
   </tr>
 
-
-  <tr class="people-list">
-    <td class="people-list"><img class="people-list" src="../assets/images/people/RemiDeFleurian.png"></td>
-    <td><a href="https://remidefleurian.com" target="_blank" rel="noopener noreferrer">Rémi de Fleurian</a><br>
-      Doctoral student: Expectation and chills in music.<br>
-      <a href="mailto:r.defleurian@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/remidefleurian" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/f2jgd/" target="_blank" rel="noopener noreferrer">OSF</a><br>
-    </td>
-  </tr>
-
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/gravatar.jpg" ></td>
     <td>
       <a href="">Adam Garrow</a><br>
       Doctoral Student: Computational Modelling of Expectancy-Based Perception of Timbral Structures
-    </td>
-  </tr>
-
-  <tr class="people-list">
-    <td class="people-list"><img class="people-list" src="../assets/images/people/EdwardHall.jpg" /></td>
-    <td>Edward Hall<br>
-      Doctoral Student: Probabilistic modelling of thematic development and structural coherence in music.<br>
-      <a href="mailto:edward.hall@qmul.ac.uk">Email</a> | <a href="https://github.com/etrhall/">GitHub</a> | <a href="https://osf.io/7nwvf/">OSF</a>
     </td>
   </tr>
   
@@ -101,22 +84,6 @@ permalink: /people/
     <td>Farida Yusuf<br>
       Doctoral student: Neural computing for auditory object analysis.<br>
       <a href="mailto:f.yusuf@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://github.com/frdysf" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/h9y54/" target="_blank" rel="noopener noreferrer">OSF</a><br>
-    </td>
-  </tr>
-  
-  <tr class="people-list">
-    <td class="people-list"><img class="people-list" src="../assets/images/people/TomKaplan.jpg" ></td>
-    <td><a href="https://kappers.github.io/">Thomas Kaplan</a><br>
-      Doctoral Student: Probabilistic modelling of rhythm perception and production.<br>
-      <a href="mailto:t.m.kaplan@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.com/citations?user=yj76nYYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/Kappers" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/akfxp/" target="_blank" rel="noopener noreferrer">OSF</a>
-    </td>
-  </tr>
-
-  <tr class="people-list">
-    <td class="people-list"><img class="people-list" src="../assets/images/people/AmiraKorkor.jpg" ></td>
-    <td>
-      <a href="https://www.qmul.ac.uk/sbcs/staff/amirakorkor.html">Amira Korkor</a><br>
-      Doctoral Student: The cognitive neuroscience of creative innovation: using EEG, brain stimulation and computational modelling to understand creativity in music
     </td>
   </tr>
   
@@ -176,6 +143,38 @@ permalink: /people/
   <tr class="people-list">
     <td colspan="2">
       <h4>Former members</h4>
+    </td>
+  </tr>
+
+  <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/TomKaplan.jpg" ></td>
+    <td><a href="https://kappers.github.io/">Thomas Kaplan</a><br>
+      Doctoral Student: Probabilistic modelling of rhythm perception and production.<br>
+      <a href="mailto:t.m.kaplan@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.com/citations?user=yj76nYYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/Kappers" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/akfxp/" target="_blank" rel="noopener noreferrer">OSF</a>
+    </td>
+  </tr>
+
+  <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/AmiraKorkor.jpg" ></td>
+    <td>
+      <a href="https://www.qmul.ac.uk/sbcs/staff/amirakorkor.html">Amira Korkor</a><br>
+      Doctoral Student: The cognitive neuroscience of creative innovation: using EEG, brain stimulation and computational modelling to understand creativity in music
+    </td>
+  </tr>
+
+  <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/EdwardHall.jpg" /></td>
+    <td>Edward Hall<br>
+      Doctoral Student: Probabilistic modelling of thematic development and structural coherence in music.<br>
+      <a href="mailto:edward.hall@qmul.ac.uk">Email</a> | <a href="https://github.com/etrhall/">GitHub</a> | <a href="https://osf.io/7nwvf/">OSF</a>
+    </td>
+  </tr>
+
+  <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/RemiDeFleurian.png"></td>
+    <td><a href="https://remidefleurian.com" target="_blank" rel="noopener noreferrer">Rémi de Fleurian</a><br>
+      Doctoral student: Expectation and chills in music.<br>
+      <a href="mailto:r.defleurian@qmul.ac.uk" target="_blank" rel="noopener noreferrer">Email</a> | <a href="https://scholar.google.co.uk/citations?user=kH6xaHsAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> | <a href="https://github.com/remidefleurian" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://osf.io/f2jgd/" target="_blank" rel="noopener noreferrer">OSF</a><br>
     </td>
   </tr>
 

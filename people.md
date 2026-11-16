@@ -75,7 +75,7 @@ permalink: /people/
     <td class="people-list"><img class="people-list" src="../assets/images/people/gravatar.jpg" ></td>
     <td>
       <a href="">Anna Greer</a><br>
-      Doctoral Student: Modelling Affective Dynamics in Music Listening from Neural Signals
+      Doctoral Student at University of Oxford: Modelling Affective Dynamics in Music Listening from Neural Signals
     </td>
   </tr>
   

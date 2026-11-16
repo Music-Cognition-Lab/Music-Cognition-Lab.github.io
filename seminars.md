@@ -21,7 +21,91 @@ attending or presenting, please get in touch with Marcus Pearce
 <td cols -->
 
 <tr>
+<td colspan="5"><b>2026</b></td>
+</tr>
+
+<tr>
+<td>11am, Fri 16 January</td>
+<td>Briana Applewhite</td>
+<td>University of Oxford</td>
+<td>The BLACK-ARTS Study: Creative Arts Therapies as a Tool for Flourishing</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 6 March</td>
+<td>Diana Omigie</td>
+<td>Goldsmiths, University of London</td>
+<td>Extending research on music engagement, memory and imagery</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 17 April</td>
+<td>Tomas Matthews</td>
+<td>Aarhus University</td>
+<td>Capturing perceived complexity and liking of drum rhythms using IDyOM</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 1 May</td>
+<td>Haokun Tian</td>
+<td>Queen Mary University of London/td>
+<td>SIMAP: A Large-Scale Sample-Based Instrument Dataset with Representation Learning Baselines</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 22 May</td>
+<td>Andrea Halpern</td>
+<td>Bucknell University</td>
+<td>Auditory Imagery In the Mind and the Brain: Studying a Covert Mental Experience</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 31 July</td>
+<td>Alejandro Carillo</td>
+<td>Imperial College London</td>
+<td>Musicality of political speech</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 16 October</td>
+<td>Roger Dean</td>
+<td>MARCS Institute, University of Western Sydney</td>
+<td>Comparing perceptual segmentation in pulsed and unpulsed music with diverse event densities</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 23 October</td>
+<td>Liam Pond</td>
+<td>McGill University, Montreal</td>
+<td>LinkedMusic and SESEMMI: An Agentic Approach to Searching Heterogeneous Music Metadata Databases</td>
+<td>CS424</td>
+</tr>
+
+<tr>
+<td>11am, Fri 27 November</td>
+<td>Laura Ortega</td>
+<td>Pompeu Fabra University, Barcelona</td>
+<td>How much of melodic surprisal in the EEG is note timing? Re-analysing a Bach listening dataset</td>
+<td>CS424</td>
+</tr>
+
+<tr>
 <td colspan="5"><b>2025</b></td>
+</tr>
+
+<tr>
+<td>11am, Fri 3 October</td>
+<td>Brandon Carone</td>
+<td>New York University</td>
+<td>Evaluating multimodal large language models on core music perception tasks</td>
+<td>CS424</td>
 </tr>
 
 <tr>

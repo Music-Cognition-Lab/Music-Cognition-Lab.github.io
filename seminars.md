@@ -5,7 +5,7 @@ permalink: /seminars/
 
 <br>
 
-<p>The Lab holds weekly seminars on the Mile End
+<p>The Lab holds weekly meetings on the Mile End
 campus at Queen Mary University of London. Sessions with invited
 speakers are listed below.</p>
 
@@ -16,9 +16,6 @@ attending or presenting, please get in touch with Marcus Pearce
 <table class="seminars">
 
 <tbody>
-
-<!-- <tr>
-<td cols -->
 
 <tr>
 <td colspan="5"><b>2026</b></td>

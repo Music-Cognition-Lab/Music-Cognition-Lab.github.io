@@ -70,12 +70,28 @@ permalink: /people/
       Doctoral Student: Computational Modelling of Expectancy-Based Perception of Timbral Structures
     </td>
   </tr>
+
+  <tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/gravatar.jpg" ></td>
+    <td>
+      <a href="">Anna Greer</a><br>
+      Doctoral Student: Modelling Affective Dynamics in Music Listening from Neural Signals
+    </td>
+  </tr>
   
   <tr class="people-list">
     <td class="people-list"><img class="people-list" src="../assets/images/people/gravatar.jpg" ></td>
     <td>
       <a href="https://eecs.qmul.ac.uk/profiles/hamiltonmadelineann.html">Madeline Hamilton</a><br>
       Doctoral Student: Improving AI-generated Music with Pleasure Models.
+    </td>
+  </tr>
+
+<tr class="people-list">
+    <td class="people-list"><img class="people-list" src="../assets/images/people/gravatar.jpg" ></td>
+    <td>
+      <a href="https://scholar.google.com/citations?user=2fEjXPAAAAAJ">Ilana Harris</a><br>
+      Doctoral Student at UCL: Spatial processing and reward in auditory evoked somatosensation .
     </td>
   </tr>
 

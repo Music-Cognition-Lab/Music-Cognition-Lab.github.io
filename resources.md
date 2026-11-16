@@ -14,9 +14,11 @@ permalink: /resources/
 
 <h4>Join the lab</h4>
 
+<b>A funded PhD studentship</b> is available for research on deep neural network modelling of music perception and pleasure: <a href="https://www.qmul.ac.uk/eecs/phd/phd-studentships/deep-neural-network-models-of-music-perception-from-sound-to-pleasure/">further details and application</a>.
+
 We welcome applications for post-doctoral research within the
 lab. Some relevant fellowship schemes can be found <a
-href="http://c4dm.eecs.qmul.ac.uk/fellowships.html">here.</a>
+href="https://c4dm.eecs.qmul.ac.uk/get-involved/">here.</a>
 
 Prospective PhD students interested in doing research on auditory
 perception and cognition should contact Marcus Pearce in the first
@@ -34,7 +36,7 @@ research.
 Students on several MSc programmes at Queeen Mary, University of
 London may do their summer research projects on Music Perception and
 Cognition, supervised by members of the lab including especially the <a
-href="http://eecs.qmul.ac.uk/postgraduate/programmes/pg-courses/129308.html">MSc
+href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/sound-and-music-computing-msc/">MSc
 in Sound &amp; Music Computing</a>.
 
 Internships are available periodically for particular research projects.

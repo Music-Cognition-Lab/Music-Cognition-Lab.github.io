@@ -48,7 +48,7 @@ attending or presenting, please get in touch with Marcus Pearce
 <tr>
 <td>11am, Fri 1 May</td>
 <td>Haokun Tian</td>
-<td>Queen Mary University of London/td>
+<td>Queen Mary University of London</td>
 <td>SIMAP: A Large-Scale Sample-Based Instrument Dataset with Representation Learning Baselines</td>
 <td>CS424</td>
 </tr>
